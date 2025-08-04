@@ -1,0 +1,1410 @@
+﻿Date,Schedule Rollup,STARS ID,Station Unique,Delay Type,Delay Category,Delay Subcategory,Charge Department,Trouble Code,Delay Total,Incident_Line,Incident Time,Incident Hour,Line
+1/2/2024,Weekday,B-117,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,L,17:06,17,L
+1/2/2024,Weekday,B-2,Lorimer St (L10),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,36,L,00:28,0,L
+1/2/2024,Weekday,B-69,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,10:48,10,L
+1/2/2024,Weekday,B-67,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,09:53,9,L
+1/2/2024,Weekday,B-39,14 St - Union Square (L03),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,BROKEN RAIL,61,L,06:30,6,L
+1/2/2024,Weekday,B-13,14 St - Union Square (L03),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,3,L,00:59,0,L
+1/2/2024,Weekday,B-3, (),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,5,L,00:04,0,L
+1/2/2024,Weekday,B-89,E 105 St (L28),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,8,L,11:45,11,L
+1/3/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,00:34,0,L
+1/3/2024,Weekday,B-45,Grand St (L12),External,Sick/Injured Customer,,Public,SICK CUSTOMER,3,L,08:21,8,L
+1/3/2024,Weekday,B-37,Livonia Av (L26),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,CBTC-SIGNAL EQUIPMENT,1,L,07:50,7,L
+1/3/2024,Weekday,B-11,Wilson Av (L20),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,4,L,01:17,1,L
+1/3/2024,Weekday,B-13,8 Av (L01),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,9,L,01:52,1,L
+1/3/2024,Weekday,B-69,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,10:45,10,L
+1/4/2024,Weekday,B-31,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,07:00,7,L
+1/4/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,A,01:49,1,L
+1/4/2024,Weekday,B-135,E 105 St (L28),External,Sick/Injured Customer,,Public,SICK CUSTOMER,16,L,17:04,17,L
+1/4/2024,Weekday,B-153,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,Division of Service Delivery,COMFORT RELIEF,9,L,17:25,17,L
+1/4/2024,Weekday,B-75,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,7,L,09:48,9,L
+1/4/2024,Weekday,B-23,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,2,L,06:20,6,L
+1/4/2024,Weekday,B-133,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of MOW Engineering,STUCK BRAKES,2,L,15:12,15,L
+1/4/2024,Weekday,B-9,14 St - Union Square (L03),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,9,L,01:23,1,L
+1/4/2024,Weekday,B-119,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,14,L,12:09,12,L
+1/4/2024,Weekday,B-11,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,00:16,0,L
+1/4/2024,Weekday,B-13,Halsey St (L19),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,00:34,0,L
+1/4/2024,Weekday,B-99,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,13,L,11:26,11,L
+1/5/2024,Weekday,B-33,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,3,L,08:23,8,L
+1/5/2024,Weekday,B-2,Lefferts Blvd - Ozone Park (A65),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,13,A,01:20,1,L
+1/5/2024,Weekday,B-21,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,06:56,6,L
+1/5/2024,Weekday,B-65,New Lots Av (L27),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,13,L,11:55,11,L
+1/5/2024,Weekday,B-7,Graham Av (L11),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,00:46,0,L
+1/5/2024,Weekday,B-71,New Lots Av (L27),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,12:27,12,L
+1/8/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,12,F,00:21,0,L
+1/8/2024,Weekday,B-85,E 105 St (L28),Internal,Other Internal,Service Delivery,OPS Training,BIE-EMPLOYEE,3,L,12:00,12,L
+1/8/2024,Weekday,B-33,Livonia Av (L26),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,9,L,07:20,7,L
+1/9/2024,Weekday,B-123,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,17:08,17,L
+1/9/2024,Weekday,B-2,95 St - Bay Ridge (R45),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,25,R,00:26,0,L
+1/9/2024,Weekday,B-27,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,3,L,04:23,4,L
+1/9/2024,Weekday,B-97,New Lots Av (L27),External,Persons on Roadbed,,Police,PERSON ON ROADBED,1,L,14:33,14,L
+1/9/2024,Weekday,B-89,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,1,L,14:17,14,L
+1/9/2024,Weekday,B-153,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,15,L,22:39,22,L
+1/9/2024,Weekday,B-57,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Engineering,SYSTEM MAINTENANCE EQUIPMENT,19,L,10:45,10,L
+1/9/2024,Weekday,B-157,8 Av (L01),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,22:50,22,L
+1/9/2024,Weekday,B-21,6 Av (L02),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,02:15,2,L
+1/10/2024,Weekday,B-2,Ditmars Blvd - Astoria (R01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,19,N,00:30,0,L
+1/10/2024,Weekday,B-111,8 Av (L01),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,1,L,18:19,18,L
+1/10/2024,Weekday,B-91,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,3,L,15:54,15,L
+1/10/2024,Weekday,B-131,Graham Av (L11),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,19:44,19,L
+1/10/2024,Weekday,B-47,Bedford Av (L08),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,17,L,10:16,10,L
+1/10/2024,Weekday,B-149,Atlantic Av (L24),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,20:50,20,L
+1/10/2024,Weekday,B-59,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,38,L,10:32,10,L
+1/10/2024,Weekday,B-5,8 Av (L01),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,00:19,0,L
+1/10/2024,Weekday,B-61,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,48,L,11:37,11,L
+1/11/2024,Weekday,B-53,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,06:43,6,L
+1/11/2024,Weekday,B-57,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,07:24,7,L
+1/11/2024,Weekday,B-95,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,11:08,11,L
+1/11/2024,Weekday,B-141,Graham Av (L11),External,Sick/Injured Customer,,Public,SICK CUSTOMER,6,L,16:12,16,L
+1/11/2024,Weekday,B-63,6 Av (L02),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-EMPLOYEE,1,L,07:51,7,L
+1/11/2024,Weekday,B-27,Graham Av (L11),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,13,L,04:39,4,L
+1/11/2024,Weekday,B-167,Bushwick Av - Aberdeen St (L21),Operating Environment,Other Operating Environment,,Police,PERSON(S) HOLDING DOORS,1,L,19:13,19,L
+1/11/2024,Weekday,B-103,New Lots Av (L27),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,7,L,10:46,10,L
+1/11/2024,Weekday,B-13,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,02:10,2,L
+1/11/2024,Weekday,B-93,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,11,L,10:39,10,L
+1/12/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,5,A,12:00,12,L
+1/12/2024,Weekday,B-37,Halsey St (L19),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,5,L,06:29,6,L
+1/12/2024,Weekday,B-7,New Lots Av (L27),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,3,L,01:28,1,L
+1/12/2024,Weekday,B-71,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,2,L,10:27,10,L
+1/15/2024,Weekday,B-131,Jefferson St (L15),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,12,L,19:34,19,L
+1/15/2024,Weekday,B-139,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,1,L,19:44,19,L
+1/15/2024,Weekday,B-5,E 105 St (L28),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,1,L,01:10,1,L
+1/15/2024,Weekday,B-35, (),Internal,Signal Failures,Other - Sig,Weather,SWITCH TROUBLE,5,L,06:43,6,L
+1/15/2024,Weekday,B-133,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,8,L,18:36,18,L
+1/15/2024,Weekday,B-33,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,STUCK BRAKES,2,L,06:20,6,L
+1/15/2024,Weekday,B-183,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,2,L,22:42,22,L
+1/16/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,7,F,00:07,0,L
+1/16/2024,Weekday,B-63,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,11,L,07:36,7,L
+1/16/2024,Weekday,B-65,14 St - Union Square (L03),External,Sick/Injured Customer,,Public,*INJURED CUSTOMER(S),6,L,07:48,7,L
+1/16/2024,Weekday,B-31,Lorimer St (L10),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,1,L,05:37,5,L
+1/16/2024,Weekday,B-61,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,32,L,07:15,7,L
+1/16/2024,Weekday,B-69,New Lots Av (L27),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,21,L,09:53,9,L
+1/16/2024,Weekday,B-141,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-SIGNAL EQUIPMENT,64,L,19:09,19,L
+1/16/2024,Weekday,B-11,14 St - Union Square (L03),Planned ROW Work,,,Operations Planning,GENERAL ORDER OPERATION,7,L,01:30,1,L
+1/17/2024,Weekday,B-23,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,05:32,5,L
+1/17/2024,Weekday,B-2,95 St - Bay Ridge (R45),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,20,R,01:06,1,L
+1/17/2024,Weekday,B-13,18 Av (F30),External,Persons on Roadbed,,Police,PERSON ON ROADBED,7,F,02:36,2,L
+1/17/2024,Weekday,B-155,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),8,L,17:44,17,L
+1/17/2024,Weekday,B-173,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),2,L,19:27,19,L
+1/17/2024,Weekday,B-185,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,3,L,20:04,20,L
+1/17/2024,Weekday,B-83,Wilson Av (L20),Internal,Other Internal,Service Delivery,OPS Training,BIE-EMPLOYEE,7,L,09:58,9,L
+1/17/2024,Weekday,B-191,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,7,L,19:47,19,L
+1/17/2024,Weekday,B-225,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,1,L,23:57,23,L
+1/17/2024,Weekday,B-181,Halsey St (L19),Internal,Stations & Structure,,Division of MOW Engineering,BIE - ALERTER,1,L,20:24,20,L
+1/17/2024,Weekday,B-157,Sutter Av (L25),Internal,Subway Car,Propulsion,Weather,EXCESS POWER,10,L,17:14,17,L
+1/17/2024,Weekday,B-5,Bedford Av (L08),Planned ROW Work,,,Division of MOW Power,DELAYED BY TRACK/WORK GANGS,8,L,00:38,0,L
+1/18/2024,Weekday,B-2,95 St - Bay Ridge (R45),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,16,R,00:06,0,L
+1/18/2024,Weekday,B-61,Wilson Av (L20),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,3,L,06:57,6,L
+1/18/2024,Weekday,B-75,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Public,UNRULY PERSON(S),8,L,08:16,8,L
+1/18/2024,Weekday,B-13,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,19,L,00:08,0,L
+1/18/2024,Weekday,B-9,Bedford Av (L08),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,1,L,05:28,5,L
+1/18/2024,Weekday,B-15,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,2,L,00:50,0,L
+1/18/2024,Weekday,B-83,1 Av (L06),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,09:53,9,L
+1/18/2024,Weekday,B-27,14 St - Union Square (L03),Planned ROW Work,,,Operations Planning,GENERAL ORDER OPERATION,5,L,02:46,2,L
+1/19/2024,Weekday,B-137,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,7,L,17:58,17,L
+1/19/2024,Weekday,B-2,96 St (Q05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,16,Q,00:45,0,L
+1/19/2024,Weekday,B-53,New Lots Av (L27),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,1,L,10:08,10,L
+1/19/2024,Weekday,B-3,Sutter Av (L25),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,16,L,00:03,0,L
+1/19/2024,Weekday,B-47,8 Av (L01),Internal,Subway Car,Other - CE,Division of Car Equipment,CAR BODY DAMAGE,1,L,09:29,9,L
+1/19/2024,Weekday,B-23,Rockaway Pkwy - Canarsie (L29),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,05:24,5,L
+1/19/2024,Weekday,B-61,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,5,L,11:04,11,L
+1/19/2024,Weekday,B-17,8 Av (L01),Planned ROW Work,,,Operations Planning,GENERAL ORDER OPERATION,6,L,01:53,1,L
+1/22/2024,Weekday,B-2,145 St (D13),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,19,D,00:15,0,L
+1/22/2024,Weekday,B-165,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),4,L,23:54,23,L
+1/22/2024,Weekday,B-45,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,2,L,07:54,7,L
+1/22/2024,Weekday,B-83,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,1,L,13:16,13,L
+1/22/2024,Weekday,B-3,Lorimer St (L10),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,1,L,00:17,0,L
+1/23/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,06:08,6,L
+1/23/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,Q,12:00,12,L
+1/23/2024,Weekday,B-7,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,00:01,0,L
+1/23/2024,Weekday,B-177,Atlantic Av (L24),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,2,L,23:40,23,L
+1/23/2024,Weekday,B-13,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,01:07,1,L
+1/24/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,D,00:53,0,L
+1/24/2024,Weekday,B-123,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,2,L,18:00,18,L
+1/24/2024,Weekday,B-83,Montrose Av (L13),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,2,L,14:31,14,L
+1/24/2024,Weekday,B-165,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,3,L,23:50,23,L
+1/24/2024,Weekday,B-81,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,6,L,14:19,14,L
+1/24/2024,Weekday,B-9,Lorimer St (L10),Planned ROW Work,,,Public,GENERAL ORDER OPERATION,11,L,01:10,1,L
+1/25/2024,Weekday,B-55,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,10,L,13:58,13,L
+1/25/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,15,D,00:14,0,L
+1/25/2024,Weekday,B-123,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,8,L,19:06,19,L
+1/25/2024,Weekday,B-163,Graham Av (L11),External,"Public Conduct, Crime, Police Response",,Police,POWER REMOVED,3,L,23:40,23,L
+1/25/2024,Weekday,B-39,Canarsie Yard (L30),Internal,Other Internal,Service Delivery,Division of Service Delivery,*INJURED EMPLOYEE,3,L,07:00,7,L
+1/25/2024,Weekday,B-59,New Lots Av (L27),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,2,L,09:18,9,L
+1/25/2024,Weekday,B-75,Bedford Av (L08),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,09:38,9,L
+1/25/2024,Weekday,B-9,8 Av (L01),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,00:30,0,L
+1/26/2024,Weekday,B-2, (),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,Q,12:00,12,L
+1/26/2024,Weekday,B-27,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),2,L,02:01,2,L
+1/26/2024,Weekday,B-69,New Lots Av (L27),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,4,L,07:47,7,L
+1/26/2024,Weekday,B-183,14 St - Union Square (L03),External,Sick/Injured Customer,,Police,SICK CUSTOMER,7,L,21:16,21,L
+1/26/2024,Weekday,B-67,6 Av (L02),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,12,L,07:44,7,L
+1/26/2024,Weekday,B-83,Rockaway Pkwy - Canarsie (L29),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,TRACK CIRCUIT FAILURE,16,L,09:38,9,L
+1/26/2024,Weekday,B-103,New Lots Av (L27),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,7,L,10:30,10,L
+1/26/2024,Weekday,B-7,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,00:01,0,L
+1/29/2024,Weekday,B-51,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,05:44,5,L
+1/29/2024,Weekday,B-2,Metropolitan Av - Middle Village (M01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,M,00:23,0,L
+1/29/2024,Weekday,B-141,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,1,L,17:54,17,L
+1/30/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,D,01:48,1,L
+1/30/2024,Weekday,B-53,Lorimer St (L10),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/ALIVE,50,L,08:30,8,L
+1/30/2024,Weekday,B-107,Lorimer St (L10),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-UNDER INVESTIGATION,6,L,14:35,14,L
+1/30/2024,Weekday,B-85,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,4,L,11:18,11,L
+1/30/2024,Weekday,B-17,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,03:29,3,L
+1/31/2024,Weekday,B-13,Graham Av (L11),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,00:02,0,L
+2/1/2024,Weekday,B-133,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,16:09,16,L
+2/1/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,10,E,00:33,0,L
+2/1/2024,Weekday,B-105,Broadway Junction (L22),External,Sick/Injured Customer,,Public,SICK CUSTOMER,13,L,13:20,13,L
+2/1/2024,Weekday,B-161,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Public,SICK CUSTOMER,4,L,18:35,18,L
+2/1/2024,Weekday,B-71,Livonia Av (L26),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,10,L,10:25,10,L
+2/1/2024,Weekday,B-193,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,18,L,23:10,23,L
+2/1/2024,Weekday,B-177,Sutter Av (L25),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,2,L,21:00,21,L
+2/1/2024,Weekday,B-75,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,13,L,10:47,10,L
+2/2/2024,Weekday,B-199,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,22:41,22,L
+2/2/2024,Weekday,B-99,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,1,L,12:31,12,L
+2/2/2024,Weekday,B-3,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,1,L,00:01,0,L
+2/2/2024,Weekday,B-21,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,01:34,1,L
+2/5/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,00:46,0,L
+2/5/2024,Weekday,B-101,Wilson Av (L20),External,Sick/Injured Customer,,Public,SICK CUSTOMER,8,L,12:38,12,L
+2/5/2024,Weekday,B-39,Sutter Av (L25),Internal,Other Internal,Service Delivery,Division of Service Delivery,*INJURED EMPLOYEE,5,L,05:37,5,L
+2/5/2024,Weekday,B-69,3 Av (L05),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,2,L,08:16,8,L
+2/6/2024,Weekday,B-2,Lefferts Blvd - Ozone Park (A65),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,11,A,00:08,0,L
+2/6/2024,Weekday,B-111,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,24,L,16:43,16,L
+2/6/2024,Weekday,B-23,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,4,L,05:22,5,L
+2/6/2024,Weekday,B-105,Atlantic Av (L24),Internal,Subway Car,Other - CE,Division of Car Equipment,DELAYED BY WORK TRAIN,2,L,20:53,20,L
+2/6/2024,Weekday,B-153,Atlantic Av (L24),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,22:05,22,L
+2/6/2024,Weekday,B-53,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,5,L,09:56,9,L
+2/6/2024,Weekday,B-15,Grand Av - Newtown (G12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,00:43,0,L
+2/7/2024,Weekday,B-85,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,9,L,06:14,6,L
+2/7/2024,Weekday,B-87,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,07:47,7,L
+2/7/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,B,06:25,6,L
+2/7/2024,Weekday,B-45,Sutter Av (L25),External,"Public Conduct, Crime, Police Response",,Police,BIE-EMPLOYEE,1,L,08:42,8,L
+2/7/2024,Weekday,B-23,Jefferson St (L15),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,1,L,05:35,5,L
+2/7/2024,Weekday,B-55,Lorimer St (M13),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),22,L,11:22,11,L
+2/7/2024,Weekday,B-53,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Public,SICK CUSTOMER,1,L,09:47,9,L
+2/8/2024,Weekday,B-2,Ditmars Blvd - Astoria (R01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,N,00:30,0,L
+2/8/2024,Weekday,B-51,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,GRAFFITI,2,L,08:55,8,L
+2/8/2024,Weekday,B-53,E 105 St (L28),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,2,L,10:12,10,L
+2/8/2024,Weekday,B-125,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,2,L,18:10,18,L
+2/8/2024,Weekday,B-73,6 Av (L02),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,FIRE/SMOKE CONDITIONS,3,L,12:31,12,L
+2/8/2024,Weekday,B-11,14 St (A31),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,00:20,0,L
+2/9/2024,Weekday,B-2,Church Av (F27),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,G,02:04,2,L
+2/9/2024,Weekday,B-51,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,08:52,8,L
+2/9/2024,Weekday,B-93,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,10,L,12:42,12,L
+2/9/2024,Weekday,B-91,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,3,L,11:58,11,L
+2/9/2024,Weekday,B-13,Graham Av (L11),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,02:11,2,L
+2/12/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,19,D,01:37,1,L
+2/12/2024,Weekday,B-123,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),13,L,17:26,17,L
+2/12/2024,Weekday,B-153,Sutter Av (L25),Internal,Other Internal,Service Delivery,Division of Service Delivery,TOWER OPERATION,31,L,21:37,21,L
+2/13/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,11,D,01:08,1,L
+2/13/2024,Weekday,B-77,Livonia Av (L26),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,8,L,11:32,11,L
+2/13/2024,Weekday,B-61,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,8,L,07:17,7,L
+2/13/2024,Weekday,B-43,14 St - Union Square (L03),Internal,Stations & Structure,,Division of MOW Engineering,DYNAMIC BRAKE PROBLEMS,6,L,08:08,8,L
+2/13/2024,Weekday,B-45,8 Av (L01),Internal,Stations & Structure,,Weather,FIRE/SMOKE CONDITIONS,51,L,08:40,8,L
+2/13/2024,Weekday,B-163,Bedford Av (L08),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,23:41,23,L
+2/13/2024,Weekday,B-15,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,GENERAL ORDER OPERATION,2,L,01:27,1,L
+2/14/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,12,F,00:07,0,L
+2/14/2024,Weekday,B-49,Atlantic Av (L24),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE - ALERTER,1,L,08:13,8,L
+2/14/2024,Weekday,B-27,Lorimer St (L10),Internal,Subway Car,Propulsion,Division of Car Equipment,SLOW TRAIN,8,L,02:14,2,L
+2/15/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,3,F,00:07,0,L
+2/15/2024,Weekday,B-109,1 Av (L06),External,External Debris on Roadbed,,Public,BIE-DEBRIS ON ROADBED,24,L,20:02,20,L
+2/15/2024,Weekday,B-123,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,5,L,21:08,21,L
+2/15/2024,Weekday,B-29,1 Av (L06),External,Sick/Injured Customer,,Public,SICK CUSTOMER,19,L,08:06,8,L
+2/15/2024,Weekday,B-49,New Lots Av (L27),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,11,L,10:12,10,L
+2/15/2024,Weekday,B-125,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,6,L,21:00,21,L
+2/15/2024,Weekday,B-15,Bedford Av (L08),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,2,L,03:33,3,L
+2/16/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,R,06:01,6,L
+2/16/2024,Weekday,B-33,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,L,07:12,7,L
+2/16/2024,Weekday,B-119,Halsey St (L19),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,6,L,18:50,18,L
+2/16/2024,Weekday,B-5,Lorimer St (L10),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,01:03,1,L
+2/16/2024,Weekday,B-49,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,7,L,10:33,10,L
+2/16/2024,Weekday,B-133,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY WORK TRAIN,7,L,22:10,22,L
+2/16/2024,Weekday,B-15,Bedford Av (L08),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,01:12,1,L
+2/20/2024,Weekday,B-63,8 Av (L01),External,Sick/Injured Customer,,Public,SICK CUSTOMER,2,L,10:44,10,L
+2/20/2024,Weekday,B-35,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,DYNAMIC BRAKE PROBLEMS,2,L,07:28,7,L
+2/20/2024,Weekday,B-59,New Lots Av (L27),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,10:56,10,L
+2/21/2024,Weekday,B-2, (),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,B,12:00,12,L
+2/21/2024,Weekday,B-41,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,DRS OPEN STUCK/JAMMED,19,L,09:33,9,L
+2/21/2024,Weekday,B-33,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,08:44,8,L
+2/21/2024,Weekday,B-59,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,11:39,11,L
+2/21/2024,Weekday,B-57,1 Av (L06),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,BIE-CBTC,14,L,11:50,11,L
+2/21/2024,Weekday,B-15,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,00:01,0,L
+2/22/2024,Weekday,B-2,Kings Hwy (F35),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,F,01:49,1,L
+2/22/2024,Weekday,B-97,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,10,L,17:00,17,L
+2/22/2024,Weekday,B-59,Bedford Av (L08),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,17,L,10:27,10,L
+2/22/2024,Weekday,B-123,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,20:36,20,L
+2/22/2024,Weekday,B-149,Rockaway Pkwy - Canarsie (L29),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,22:17,22,L
+2/22/2024,Weekday,B-69,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,11:50,11,L
+2/22/2024,Weekday,B-7,Montrose Av (L13),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,00:34,0,L
+2/23/2024,Weekday,B-19,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,03:23,3,L
+2/23/2024,Weekday,B-11,6 Av (L02),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,01:07,1,L
+2/26/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,13,A,00:11,0,L
+2/26/2024,Weekday,B-71,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,3,L,08:35,8,L
+2/26/2024,Weekday,B-3,Bedford Av (L08),Planned ROW Work,,,MTA Construction & Development,DELAYED BY WORK TRAIN,4,L,00:29,0,L
+2/27/2024,Weekday,B-2,Atlantic Av - Barclays Center (R31),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,Q,00:08,0,L
+2/27/2024,Weekday,B-45,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,L,08:11,8,L
+2/27/2024,Weekday,B-57,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,B/O T/O CONSOLE SWITCH,1,L,10:34,10,L
+2/27/2024,Weekday,B-27,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,2,L,04:43,4,L
+2/27/2024,Weekday,B-153,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Police,ASSISTANCE REFUSED/UNFOUNDED,1,L,23:11,23,L
+2/27/2024,Weekday,B-55,Broad St (M23),External,Sick/Injured Customer,,Public,SICK CUSTOMER,1,JZ,10:18,10,L
+2/27/2024,Weekday,B-157,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,AUTOMATIC TRAIN SUPV,7,L,23:34,23,L
+2/27/2024,Weekday,B-133,Myrtle - Wyckoff Avs (L17),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,4,L,20:56,20,L
+2/27/2024,Weekday,B-145,Halsey St (L19),Internal,Subway Car,Other - CE,Division of Car Equipment,SMOKE ISSUING,9,L,21:56,21,L
+2/27/2024,Weekday,B-11,Halsey St (L19),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,15,L,00:20,0,L
+2/27/2024,Weekday,B-3,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,00:05,0,L
+2/28/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,05:32,5,L
+2/28/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,10,F,00:41,0,L
+2/28/2024,Weekday,B-103,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,14:33,14,L
+2/28/2024,Weekday,B-99,3 Av (L05),External,Sick/Injured Customer,,Public,SICK CUSTOMER,19,L,13:37,13,L
+2/28/2024,Weekday,B-153, (),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-HOME SIGNAL,10,Q,21:05,21,L
+2/28/2024,Weekday,B-3,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,9,L,00:12,0,L
+2/28/2024,Weekday,B-149,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,LOSS OF T/O INDICATION,4,L,19:54,19,L
+2/28/2024,Weekday,B-19,Halsey St (L19),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,02:02,2,L
+2/28/2024,Weekday,B-97,Broadway Junction (L22),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,11,L,12:25,12,L
+2/29/2024,Weekday,B-53,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,09:09,9,L
+2/29/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,10,E,02:13,2,L
+2/29/2024,Weekday,B-45,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,BIE-EMPLOYEE,1,L,09:37,9,L
+2/29/2024,Weekday,B-61,DeKalb Av (L16),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,8,L,11:26,11,L
+2/29/2024,Weekday,B-113,Myrtle Av (M11),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,1,L,20:47,20,L
+2/29/2024,Weekday,B-107,Morgan Av (L14),Internal,Stations & Structure,,Division of MOW Engineering,LOSS OF T/O INDICATION,2,L,19:30,19,L
+2/29/2024,Weekday,B-29,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,01:29,1,L
+3/1/2024,Weekday,B-2,179 St - Jamaica (F01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,F,05:49,5,L
+3/1/2024,Weekday,B-165,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,ARMED PERSON(S),1,L,23:46,23,L
+3/1/2024,Weekday,B-41,Montrose Av (L13),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,3,L,07:15,7,L
+3/1/2024,Weekday,B-33,E 105 St (L28),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,3,L,06:21,6,L
+3/1/2024,Weekday,B-23,Bedford Av (L08),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,CBTC-CAR EQUIPMENT,1,L,02:23,2,L
+3/1/2024,Weekday,B-101,3 Av (L05),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,FIRE/SMOKE CONDITIONS,6,L,15:27,15,L
+3/1/2024,Weekday,B-69,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,13,L,11:22,11,L
+3/1/2024,Weekday,B-21,DeKalb Av (L16),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,02:00,2,L
+3/4/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,00:48,0,L
+3/4/2024,Weekday,B-71,6 Av (L02),External,Persons on Roadbed,,Police,PERSON ON ROADBED,8,L,11:41,11,L
+3/5/2024,Weekday,B-2,Bedford - Nostrand Avs (G33),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,5,G,01:23,1,L
+3/5/2024,Weekday,B-81,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,11:53,11,L
+3/6/2024,Weekday,B-47,Halsey St (L19),External,"Public Conduct, Crime, Police Response",,Public,FIRE/SMOKE CONDITIONS,1,L,10:01,10,L
+3/6/2024,Weekday,B-125,6 Av (L02),Internal,Stations & Structure,,Division of MOW Engineering,DRS FAIL TO O/C CAR,2,L,20:29,20,L
+3/6/2024,Weekday,B-57,E 105 St (L28),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,16,L,11:31,11,L
+3/7/2024,Weekday,B-15,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,06:20,6,L
+3/7/2024,Weekday,B-109,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,LOSS OF T/O INDICATION,14,L,16:24,16,L
+3/7/2024,Weekday,B-113,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),8,L,16:45,16,L
+3/7/2024,Weekday,B-73,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,10:50,10,L
+3/8/2024,Weekday,B-2,179 St - Jamaica (F01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,F,00:03,0,L
+3/8/2024,Weekday,B-87,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,11:40,11,L
+3/8/2024,Weekday,B-97,Atlantic Av (L24),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,15,L,12:30,12,L
+3/11/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,7,D,01:08,1,L
+3/11/2024,Weekday,B-33,Jefferson St (L15),Internal,Other Internal,Service Delivery,Division of Service Delivery,IMPROPER OPERATION,3,L,03:17,3,L
+3/11/2024,Weekday,B-101,New Lots Av (L27),Internal,Other Internal,Service Delivery,OPS Training,TRAIN OPERATION,2,L,12:52,12,L
+3/11/2024,Weekday,B-13,Canarsie Tube (L07),Internal,Subway Car,Propulsion,Division of Car Equipment,NO MOTOR POWER,12,L,00:44,0,L
+3/11/2024,Weekday,B-95,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,1,L,11:52,11,L
+3/12/2024,Weekday,B-119,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,17:06,17,L
+3/12/2024,Weekday,B-17,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Public,BROKEN GLASS,6,L,03:07,3,L
+3/12/2024,Weekday,B-105,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,3,L,15:45,15,L
+3/12/2024,Weekday,B-117,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,3,L,17:47,17,L
+3/12/2024,Weekday,B-73,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,10,L,11:25,11,L
+3/12/2024,Weekday,B-19,Halsey St (L19),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,7,L,01:47,1,L
+3/13/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,3,N,01:37,1,L
+3/13/2024,Weekday,B-99,Canarsie Tube (L07),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,UNUSUAL NOISE-RIGHT OF WAY,28,L,12:03,12,L
+3/13/2024,Weekday,B-141,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,12,L,11:35,11,L
+3/13/2024,Weekday,B-169,Broadway Junction (L22),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,23:13,23,L
+3/13/2024,Weekday,B-11,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,01:55,1,L
+3/14/2024,Weekday,B-17,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,01:23,1,L
+3/14/2024,Weekday,B-2,95 St - Bay Ridge (R45),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,20,R,05:44,5,L
+3/14/2024,Weekday,B-83,Jefferson St (L15),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),9,L,14:08,14,L
+3/14/2024,Weekday,B-155,Atlantic Av (L24),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,2,L,22:30,22,L
+3/14/2024,Weekday,B-19,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,00:54,0,L
+3/15/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,18,R,06:53,6,L
+3/15/2024,Weekday,B-33,14 St - Union Square (L03),External,Sick/Injured Customer,,Public,SICK CUSTOMER,2,L,05:28,5,L
+3/15/2024,Weekday,B-41,New Lots Av (L27),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,2,L,08:00,8,L
+3/15/2024,Weekday,B-63,E 105 St (L28),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,17,L,11:06,11,L
+3/15/2024,Weekday,B-43,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,1,L,12:00,12,L
+3/15/2024,Weekday,B-71,Livonia Av (L26),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,11,L,11:34,11,L
+3/15/2024,Weekday,B-29,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,01:53,1,L
+3/18/2024,Weekday,B-27,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,06:20,6,L
+3/18/2024,Weekday,B-2,Ditmars Blvd - Astoria (R01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,10,N,00:10,0,L
+3/18/2024,Weekday,B-163,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,23:06,23,L
+3/18/2024,Weekday,B-43,Montrose Av (L13),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),4,L,07:38,7,L
+3/18/2024,Weekday,B-45,Livonia Av (L26),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,1,L,08:28,8,L
+3/18/2024,Weekday,B-127,3 Av (L05),Internal,Stations & Structure,,Division of MOW Engineering,LOSS OF T/O INDICATION,4,L,16:16,16,L
+3/18/2024,Weekday,B-101,Montrose Av (L13),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL CONDITION-SLOW ORDER,12,L,14:00,14,L
+3/18/2024,Weekday,B-3,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,1,L,00:00,0,L
+3/19/2024,Weekday,B-2,Prospect Park (D26),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,Q,01:29,1,L
+3/19/2024,Weekday,B-43,3 Av (L05),External,Sick/Injured Customer,,Public,SICK CUSTOMER,4,L,09:34,9,L
+3/19/2024,Weekday,B-51,Broadway Junction (L22),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,49,L,11:15,11,L
+3/19/2024,Weekday,B-254,Atlantic Av (L24),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,22:47,22,L
+3/19/2024,Weekday,B-143,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,25,L,10:15,10,L
+3/20/2024,Weekday,B-17,Graham Av (L11),External,Sick/Injured Customer,,Police,*INJURED CUSTOMER(S),5,L,01:23,1,L
+3/20/2024,Weekday,B-167,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,22:55,22,L
+3/20/2024,Weekday,B-15,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,17,L,00:42,0,L
+3/20/2024,Weekday,B-27,Jefferson St (L15),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,01:40,1,L
+3/20/2024,Weekday,B-89,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,11,L,10:57,10,L
+3/21/2024,Weekday,B-105,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,18:06,18,L
+3/21/2024,Weekday,B-2,Mott Av - Far Rockaway (H11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,A,04:51,4,L
+3/21/2024,Weekday,B-21,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,4,L,06:10,6,L
+3/21/2024,Weekday,B-13,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,01:05,1,L
+3/21/2024,Weekday,B-151,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,23:37,23,L
+3/21/2024,Weekday,B-9,Montrose Av (L13),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,00:37,0,L
+3/21/2024,Weekday,B-49,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,17,L,07:00,7,L
+3/22/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,E,01:13,1,L
+3/22/2024,Weekday,B-63,6 Av (L02),External,"Public Conduct, Crime, Police Response",,Police,BIE-EMPLOYEE,21,L,11:48,11,L
+3/22/2024,Weekday,B-143,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,14,L,20:05,20,L
+3/22/2024,Weekday,B-137,8 Av (L01),Internal,Other Internal,Service Delivery,Division of Service Delivery,SICK EMPLOYEE,13,L,20:50,20,L
+3/22/2024,Weekday,B-111,Graham Av (L11),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,9,L,16:45,16,L
+3/22/2024,Weekday,B-107,Broadway Junction (L22),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,12,L,16:32,16,L
+3/22/2024,Weekday,B-7,Jefferson St (L15),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,00:26,0,L
+3/22/2024,Weekday,B-157,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,3,L,22:25,22,L
+3/25/2024,Weekday,B-143,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,8,L,16:04,16,L
+3/25/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,A,02:29,2,L
+3/25/2024,Weekday,B-115,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,2,L,12:25,12,L
+3/25/2024,Weekday,B-139,Jefferson St (L15),External,Sick/Injured Customer,,Public,SICK CUSTOMER,1,L,16:38,16,L
+3/25/2024,Weekday,B-7,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,00:28,0,L
+3/26/2024,Weekday,B-103,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Police,SICK CUSTOMER,4,L,18:30,18,L
+3/26/2024,Weekday,B-39,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,2,L,08:50,8,L
+3/26/2024,Weekday,B-123,Broadway Junction (L22),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,9,L,20:50,20,L
+3/26/2024,Weekday,B-15,Montrose Av (L13),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,01:42,1,L
+3/26/2024,Weekday,B-69,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,11:12,11,L
+3/26/2024,Weekday,B-11,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,6,L,00:37,0,L
+3/27/2024,Weekday,B-2,179 St - Jamaica (F01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,F,01:03,1,L
+3/27/2024,Weekday,B-141,Sutter Av (L25),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,11,L,19:30,19,L
+3/27/2024,Weekday,B-55,Livonia Av (L26),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,58,L,10:13,10,L
+3/27/2024,Weekday,B-11,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,01:51,1,L
+3/27/2024,Weekday,B-91,New Lots Av (L27),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,13:46,13,L
+3/28/2024,Weekday,B-107,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,1,L,13:28,13,L
+3/28/2024,Weekday,B-19,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,01:13,1,L
+3/28/2024,Weekday,B-85,New Lots Av (L27),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,11:02,11,L
+3/29/2024,Weekday,B-2,57 St (B10),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,M,06:19,6,L
+3/29/2024,Weekday,B-103,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Miscellaneous,PERSON RIDING ON O/S OF TRAIN,2,L,16:29,16,L
+3/29/2024,Weekday,B-3,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,00:15,0,L
+3/29/2024,Weekday,B-65,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,11:29,11,L
+4/1/2024,Weekday,B-157,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,74,L,20:18,20,L
+4/1/2024,Weekday,B-191,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,COMFORT RELIEF,1,L,23:06,23,L
+4/1/2024,Weekday,B-189,3 Av (L05),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,22:47,22,L
+4/2/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,E,03:33,3,L
+4/2/2024,Weekday,B-23,Livonia Av (L26),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,T/O OVER RUNNING THE STATION,1,L,05:31,5,L
+4/2/2024,Weekday,B-9,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,17,L,00:39,0,L
+4/2/2024,Weekday,B-131,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,20:20,20,L
+4/2/2024,Weekday,B-137,1 Av (L06),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,56,L,20:18,20,L
+4/3/2024,Weekday,B-71,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,10:54,10,L
+4/3/2024,Weekday,B-131,Sutter Av (L25),External,Sick/Injured Customer,,Police,SICK CUSTOMER,10,L,19:52,19,L
+4/3/2024,Weekday,B-127,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,9,L,19:02,19,L
+4/3/2024,Weekday,B-5,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,00:35,0,L
+4/3/2024,Weekday,B-73,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,11:04,11,L
+4/3/2024,Weekday,B-139,14 St - Union Square (L03),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,10,L,22:53,22,L
+4/4/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,5,R,09:59,9,L
+4/4/2024,Weekday,B-43,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,3,L,05:56,5,L
+4/4/2024,Weekday,B-5,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,00:45,0,L
+4/4/2024,Weekday,B-193,14 St - Union Square (L03),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,5,L,22:37,22,L
+4/5/2024,Weekday,B-25,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,04:23,4,L
+4/5/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,05:24,5,L
+4/5/2024,Weekday,B-49,Graham Av (L11),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,CBTC-CAR EQUIPMENT,6,L,07:56,7,L
+4/5/2024,Weekday,B-133,Livonia Av (L26),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,2,L,21:49,21,L
+4/5/2024,Weekday,B-63,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,14,L,10:15,10,L
+4/5/2024,Weekday,B-9,6 Av (L02),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,7,L,00:20,0,L
+4/8/2024,Weekday,B-27,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,05:19,5,L
+4/8/2024,Weekday,B-2,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,25,L,00:18,0,L
+4/8/2024,Weekday,B-19,Bushwick Av - Aberdeen St (L21),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-EMPLOYEE,1,L,03:54,3,L
+4/8/2024,Weekday,B-117,Graham Av (L11),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,4,L,14:05,14,L
+4/8/2024,Weekday,B-29,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Other - CE,Division of Car Equipment,B/O T/O CONSOLE SWITCH,1,L,05:24,5,L
+4/8/2024,Weekday,B-13,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,03:06,3,L
+4/9/2024,Weekday,B-37,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,06:17,6,L
+4/9/2024,Weekday,B-33,Graham Av (L11),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,1,L,02:54,2,L
+4/9/2024,Weekday,B-137,Livonia Av (L26),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,2,L,19:25,19,L
+4/9/2024,Weekday,B-159,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,12:00,12,L
+4/9/2024,Weekday,B-121,Lorimer St (L10),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,1,L,17:10,17,L
+4/9/2024,Weekday,B-111,Morgan Av (L14),Internal,Other Internal,Other Internal Disruptions,Miscellaneous,GUARD LIGHT TROUBLE,1,L,16:42,16,L
+4/9/2024,Weekday,B-67,Lorimer St (L10),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,8,L,10:53,10,L
+4/9/2024,Weekday,B-169,Bedford Av (L08),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,23:41,23,L
+4/9/2024,Weekday,B-7,Broadway Junction (L22),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,00:04,0,L
+4/9/2024,Weekday,B-19,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,02:09,2,L
+4/9/2024,Weekday,B-85,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,11:33,11,L
+4/10/2024,Weekday,B-61,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,1,L,10:52,10,L
+4/10/2024,Weekday,B-31,Lorimer St (L10),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,TRACK CIRCUIT FAILURE,10,L,04:48,4,L
+4/10/2024,Weekday,B-25,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,04:09,4,L
+4/10/2024,Weekday,B-75,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,11:32,11,L
+4/11/2024,Weekday,B-2,World Trade Center (E01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,E,05:38,5,L
+4/11/2024,Weekday,B-11,Graham Av (L11),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,9,L,01:42,1,L
+4/11/2024,Weekday,B-87,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,14:25,14,L
+4/12/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,D,01:57,1,L
+4/12/2024,Weekday,B-41,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,L,07:30,7,L
+4/12/2024,Weekday,B-97,Atlantic Av (L24),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,3,L,13:26,13,L
+4/12/2024,Weekday,B-17,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,02:21,2,L
+4/12/2024,Weekday,B-67,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,10:24,10,L
+4/12/2024,Weekday,B-95,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,11:55,11,L
+4/12/2024,Weekday,B-73,Livonia Av (L26),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,14,L,09:49,9,L
+4/15/2024,Weekday,B-153,Broadway Junction (L22),Internal,Subway Car,Door-Related,Division of Car Equipment,LOSS OF C/R INDICATION,1,L,19:20,19,L
+4/15/2024,Weekday,B-35,Halsey St (L19),Planned ROW Work,,,Division of Electrical Maintenance,DELAYED BY TRACK/WORK GANGS,4,L,01:20,1,L
+4/15/2024,Weekday,B-33,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,01:12,1,L
+4/16/2024,Weekday,B-131,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),5,L,20:40,20,L
+4/16/2024,Weekday,B-139,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),2,L,22:34,22,L
+4/17/2024,Weekday,B-103,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,16:04,16,L
+4/17/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,E,04:52,4,L
+4/17/2024,Weekday,B-121,Bedford Av (L08),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-EMPLOYEE,19,L,16:58,16,L
+4/17/2024,Weekday,B-123,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,94,L,17:40,17,L
+4/17/2024,Weekday,B-139,Rockaway Pkwy - Canarsie (L29),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,SWITCH TROUBLE,57,L,17:08,17,L
+4/17/2024,Weekday,B-53,Myrtle - Wyckoff Avs (L17),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,TRACK CIRCUIT FAILURE,2,L,08:35,8,L
+4/17/2024,Weekday,B-75,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,7,L,10:33,10,L
+4/17/2024,Weekday,B-17,Montrose Av (L13),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,01:28,1,L
+4/18/2024,Weekday,B-7,Rockaway Pkwy - Canarsie (L29),External,Inclement Weather,,Division of MOW Track,INCLEMENT WEATHER CONDITION,8,L,00:01,0,L
+4/18/2024,Weekday,B-69,DeKalb Av (L16),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/DECEASED,83,L,10:31,10,L
+4/18/2024,Weekday,B-133,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,3,L,18:08,18,L
+4/18/2024,Weekday,B-109,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of Electrical Maintenance,CBTC - NETWORK,85,L,16:20,16,L
+4/18/2024,Weekday,B-91,Lorimer St (L10),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,9,L,10:00,10,L
+4/18/2024,Weekday,B-55,Rockaway Pkwy - Canarsie (L29),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,TRACK CIRCUIT FAILURE,42,L,08:46,8,L
+4/18/2024,Weekday,B-9,Wilson Av (L20),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,00:30,0,L
+4/19/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,E,03:13,3,L
+4/19/2024,Weekday,B-75,Montrose Av (L13),External,External Debris on Roadbed,,Public,BIE-DEBRIS ON ROADBED,4,L,12:38,12,L
+4/19/2024,Weekday,B-97,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,DOOR OPERATORS CUT-OUT,17,L,15:50,15,L
+4/19/2024,Weekday,B-127,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),5,L,20:32,20,L
+4/19/2024,Weekday,B-161,Lorimer St (L10),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,1,L,23:00,23,L
+4/19/2024,Weekday,B-33,1 Av (L06),Internal,Other Internal,Service Delivery,OPS Training,BIE - ALERTER,17,L,07:30,7,L
+4/19/2024,Weekday,B-25,Wilson Av (L20),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,CBTC-CAR EQUIPMENT,11,L,07:18,7,L
+4/19/2024,Weekday,B-69,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,10:20,10,L
+4/19/2024,Weekday,B-81,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,12:12,12,L
+4/22/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,E,06:27,6,L
+4/22/2024,Weekday,B-103,Atlantic Av (L24),Internal,Other Internal,Service Delivery,OPS Training,IMPROPER OPERATION,3,L,16:14,16,L
+4/22/2024,Weekday,B-105,Bedford Av (L08),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,45,L,14:56,14,L
+4/22/2024,Weekday,B-121,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,39,L,16:02,16,L
+4/22/2024,Weekday,B-111,Rockaway Pkwy - Canarsie (L29),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,BIE-CBTC,102,L,18:15,18,L
+4/23/2024,Weekday,B-109,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,1,L,11:26,11,L
+4/23/2024,Weekday,B-181,Bushwick Av - Aberdeen St (L21),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-EMPLOYEE,2,L,23:05,23,L
+4/23/2024,Weekday,B-67,1 Av (L06),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,2,L,08:29,8,L
+4/23/2024,Weekday,B-177,14 St - Union Square (L03),Internal,Subway Car,Other - CE,Division of Car Equipment,CBTC-CAR EQUIPMENT,11,L,21:55,21,L
+4/23/2024,Weekday,B-83,Halsey St (L19),Planned ROW Work,,,Division of Electrical Maintenance,DELAYED BY TRACK/WORK GANGS,17,L,10:18,10,L
+4/23/2024,Weekday,B-97,New Lots Av (L27),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,11,L,11:46,11,L
+4/24/2024,Weekday,B-81,New Lots Av (L27),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,17,L,10:48,10,L
+4/24/2024,Weekday,B-11,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,01:07,1,L
+4/24/2024,Weekday,B-77,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,10:31,10,L
+4/25/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,00:11,0,L
+4/25/2024,Weekday,B-117,Grand St (L12),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,19:20,19,L
+4/25/2024,Weekday,B-13,Lorimer St (L10),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,8,L,01:09,1,L
+4/25/2024,Weekday,B-11,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,11,L,00:06,0,L
+4/26/2024,Weekday,B-2,Euclid Av (A55),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,A,05:46,5,L
+4/26/2024,Weekday,B-89,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,13:53,13,L
+4/26/2024,Weekday,B-79,8 Av (L01),External,Sick/Injured Customer,,Public,SICK CUSTOMER,1,L,11:24,11,L
+4/26/2024,Weekday,B-21,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,01:16,1,L
+4/29/2024,Weekday,B-75,E 105 St (L28),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/ALIVE,53,L,18:53,18,L
+4/29/2024,Weekday,B-89,14 St - Union Square (L03),Internal,Subway Car,Door-Related,Division of Car Equipment,LOSS OF C/R INDICATION,13,L,14:16,14,L
+4/29/2024,Weekday,B-69,Sutter Av (L25),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,1,L,11:19,11,L
+4/30/2024,Weekday,B-2,Lefferts Blvd - Ozone Park (A65),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,A,00:08,0,L
+4/30/2024,Weekday,B-3, (),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/ALIVE,3,L,00:00,0,L
+4/30/2024,Weekday,B-9,Livonia Av (L26),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-UNDER INVESTIGATION,4,L,00:38,0,L
+4/30/2024,Weekday,B-19,6 Av (L02),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY TRACK/WORK GANGS,14,L,01:35,1,L
+4/30/2024,Weekday,B-105,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,10:47,10,L
+4/30/2024,Weekday,B-17,8 Av (L01),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,12,L,00:10,0,L
+4/30/2024,Weekday,B-91,Broadway Junction (L22),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,14,L,10:47,10,L
+5/1/2024,Weekday,B-161,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of Electrical Maintenance,SYSTEM MAINTENANCE EQUIPMENT,2,L,23:00,23,L
+5/1/2024,Weekday,B-3,Broadway Junction (J27),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,5,L,00:28,0,L
+5/1/2024,Weekday,B-17,Canarsie Tube (L07),Planned ROW Work,,,Division of MOW Track,GENERAL ORDER OPERATION,16,L,02:24,2,L
+5/1/2024,Weekday,B-5,Lorimer St (L10),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,10,L,00:50,0,L
+5/2/2024,Weekday,B-59,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,09:14,9,L
+5/2/2024,Weekday,B-177,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,BIE-EMPLOYEE,1,L,22:35,22,L
+5/2/2024,Weekday,B-191,8 Av (L01),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,3,L,23:46,23,L
+5/2/2024,Weekday,B-131,Livonia Av (L26),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,5,L,16:55,16,L
+5/2/2024,Weekday,B-143,Bedford Av (L08),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,32,L,17:35,17,L
+5/2/2024,Weekday,B-3,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of Electrical Maintenance,SYSTEM MAINTENANCE EQUIPMENT,11,L,00:01,0,L
+5/2/2024,Weekday,B-175,6 Av (L02),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,2,L,22:24,22,L
+5/2/2024,Weekday,B-5,Bedford Av (L08),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,2,L,00:43,0,L
+5/2/2024,Weekday,B-103,Morgan Av (L14),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,BROKEN RAIL,77,L,13:20,13,L
+5/2/2024,Weekday,B-135,Montrose Av (L13),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,BROKEN RAIL,20,L,16:03,16,L
+5/2/2024,Weekday,B-55,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Engineering,SYSTEM MAINTENANCE EQUIPMENT,18,L,11:17,11,L
+5/2/2024,Weekday,B-29,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,02:11,2,L
+5/2/2024,Weekday,B-21,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,8,L,00:30,0,L
+5/2/2024,Weekday,B-19,6 Av (L02),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,5,L,00:42,0,L
+5/2/2024,Weekday,B-73,Atlantic Av (L24),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,1,L,09:25,9,L
+5/3/2024,Weekday,B-2,Bedford - Nostrand Avs (G33),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,11,G,00:35,0,L
+5/3/2024,Weekday,B-147,Bedford Av (L08),External,Persons on Roadbed,,Police,PERSON ON ROADBED,3,L,21:39,21,L
+5/3/2024,Weekday,B-17,Atlantic Av (L24),External,Sick/Injured Customer,,Public,SICK CUSTOMER,4,L,00:56,0,L
+5/3/2024,Weekday,B-157,Graham Av (L11),Internal,Other Internal,Other Internal Disruptions,Miscellaneous,FIRE/SMOKE CONDITIONS,4,L,22:57,22,L
+5/3/2024,Weekday,B-13,8 Av (L01),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,26,L,00:01,0,L
+5/3/2024,Weekday,B-83,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-HOME SIGNAL,13,L,20:23,20,L
+5/3/2024,Weekday,B-49,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,10,L,05:30,5,L
+5/3/2024,Weekday,B-53,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,3,L,06:18,6,L
+5/3/2024,Weekday,B-43,Graham Av (L11),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,17,L,05:00,5,L
+5/3/2024,Weekday,B-69,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,3,L,11:10,11,L
+5/3/2024,Weekday,B-27,3 Av (L05),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,01:59,1,L
+5/3/2024,Weekday,B-21,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,4,L,12:00,12,L
+5/6/2024,Weekday,B-2,Lefferts Blvd - Ozone Park (A65),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,A,00:08,0,L
+5/6/2024,Weekday,B-25,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,1,L,03:59,3,L
+5/6/2024,Weekday,B-129,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,6,L,17:30,17,L
+5/6/2024,Weekday,B-5,E 105 St (L28),External,Sick/Injured Customer,,Public,SICK CUSTOMER,7,L,00:04,0,L
+5/6/2024,Weekday,B-139,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,40,L,18:09,18,L
+5/6/2024,Weekday,B-125,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,16:37,16,L
+5/6/2024,Weekday,B-17,Graham Av (L11),Planned ROW Work,,,MTA Construction & Development,DELAYED BY WORK TRAIN,3,L,02:43,2,L
+5/7/2024,Weekday,B-95,14 St - Union Square (L03),Internal,Other Internal,Other Internal Disruptions,Miscellaneous,DRS FAIL TO O/C SECTION,6,L,14:11,14,L
+5/7/2024,Weekday,B-83,E 105 St (L28),Planned ROW Work,,,Division of MOW Engineering,DELAYED BY TRANSFER,8,L,12:10,12,L
+5/7/2024,Weekday,B-19,8 Av (L01),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY TRACK/WORK GANGS,8,L,01:42,1,L
+5/7/2024,Weekday,B-7,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,00:36,0,L
+5/8/2024,Weekday,B-111,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,L,17:06,17,L
+5/8/2024,Weekday,B-27,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,04:09,4,L
+5/8/2024,Weekday,B-15,Canarsie Tube (L07),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,3,L,01:37,1,L
+5/8/2024,Weekday,B-43,8 Av (L01),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,3,L,08:04,8,L
+5/8/2024,Weekday,B-17,60 St Tube (R10),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,BIE-DEBRIS ON ROADBED,1,N,02:41,2,L
+5/8/2024,Weekday,B-57,Atlantic Av (L24),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,SIGNAL TROUBLE,42,L,09:10,9,L
+5/8/2024,Weekday,B-29,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY WORK TRAIN,1,L,05:05,5,L
+5/8/2024,Weekday,B-13,8 Av (L01),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,01:06,1,L
+5/8/2024,Weekday,B-7,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,2,L,00:01,0,L
+5/9/2024,Weekday,B-107,Halsey St (J29),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,2,L,17:07,17,L
+5/9/2024,Weekday,B-105,E 105 St (L28),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,16:00,16,L
+5/9/2024,Weekday,B-49,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,100,L,07:35,7,L
+5/9/2024,Weekday,B-47,8 Av (L01),Internal,Subway Car,Door-Related,Division of Car Equipment,DRS FAIL TO O/C CAR,1,L,07:33,7,L
+5/9/2024,Weekday,B-23,8 Av (L01),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,4,L,02:43,2,L
+5/9/2024,Weekday,B-11,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,00:56,0,L
+5/10/2024,Weekday,B-149,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,21:28,21,L
+5/10/2024,Weekday,B-137,6 Av (L02),External,Sick/Injured Customer,,Public,SICK CUSTOMER,9,L,20:35,20,L
+5/10/2024,Weekday,B-35,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-HOME SIGNAL,2,L,05:44,5,L
+5/10/2024,Weekday,B-73,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,1,L,13:12,13,L
+5/10/2024,Weekday,B-43,DeKalb Av (L16),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,1,L,05:57,5,L
+5/10/2024,Weekday,B-45,Broadway Junction (L22),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,5,L,06:06,6,L
+5/10/2024,Weekday,B-47,Canarsie Tube (L07),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,19,L,07:25,7,L
+5/10/2024,Weekday,B-21,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,02:19,2,L
+5/10/2024,Weekday,B-7,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,1,L,00:28,0,L
+5/13/2024,Weekday,B-113,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,17:25,17,L
+5/13/2024,Weekday,B-117,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,17:35,17,L
+5/13/2024,Weekday,B-119,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,5,L,18:33,18,L
+5/13/2024,Weekday,B-35,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,06:20,6,L
+5/13/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,00:27,0,L
+5/13/2024,Weekday,B-13,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,01:35,1,L
+5/13/2024,Weekday,B-11,Montrose Av (L13),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,01:36,1,L
+5/13/2024,Weekday,B-3,Lorimer St (L10),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,5,L,00:25,0,L
+5/13/2024,Weekday,B-55,Atlantic Av (L24),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,SIGNAL TROUBLE,1,L,09:07,9,L
+5/14/2024,Weekday,B-2,Myrtle Av (M11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,M,00:00,0,L
+5/14/2024,Weekday,B-67,E 105 St (L28),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-HOME SIGNAL,18,L,11:11,11,L
+5/14/2024,Weekday,B-113,3 Av (L05),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,BIE-BRAKE PIPE RUPTURE,30,L,19:47,19,L
+5/14/2024,Weekday,B-69,Lorimer St (L10),Planned ROW Work,,,Division of MOW Engineering,DELAYED BY TRANSFER,7,L,10:50,10,L
+5/14/2024,Weekday,B-3,Halsey St (L19),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,01:37,1,L
+5/15/2024,Weekday,B-25,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,8,L,06:20,6,L
+5/15/2024,Weekday,B-21,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,BIE-MULTIPLE TIMES,7,L,04:09,4,L
+5/15/2024,Weekday,B-137,Lorimer St (L10),External,Sick/Injured Customer,,Police,*INJURED CUSTOMER(S),19,L,20:17,20,L
+5/15/2024,Weekday,B-149,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,1,L,22:50,22,L
+5/15/2024,Weekday,B-151,1 Av (L06),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,1,L,22:58,22,L
+5/15/2024,Weekday,B-125,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Other - CE,Division of Car Equipment,FIRE/SMOKE CONDITIONS,8,L,19:36,19,L
+5/15/2024,Weekday,B-15,Graham Av (L11),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,5,L,03:07,3,L
+5/15/2024,Weekday,B-83,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,11:49,11,L
+5/15/2024,Weekday,B-9,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,00:03,0,L
+5/16/2024,Weekday,B-107,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,12,L,16:30,16,L
+5/16/2024,Weekday,B-127,Bushwick Av - Aberdeen St (L21),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE - ALERTER,18,L,17:08,17,L
+5/16/2024,Weekday,B-9,Jefferson St (L15),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,1,L,00:50,0,L
+5/16/2024,Weekday,B-147,Lorimer St (L10),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,19:25,19,L
+5/16/2024,Weekday,B-65,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,6,L,11:08,11,L
+5/16/2024,Weekday,B-13,Halsey St (L19),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,00:44,0,L
+5/17/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,M,06:14,6,L
+5/17/2024,Weekday,B-43,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,1,L,07:16,7,L
+5/17/2024,Weekday,B-5,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,00:30,0,L
+5/20/2024,Weekday,B-27,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,07:12,7,L
+5/20/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,D,00:17,0,L
+5/20/2024,Weekday,B-53,Halsey St (L19),External,Sick/Injured Customer,,Public,SICK CUSTOMER,25,L,10:07,10,L
+5/20/2024,Weekday,B-147,E 105 St (L28),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,BIE-STANDING STILL,1,L,22:18,22,L
+5/20/2024,Weekday,B-43,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,1,L,08:26,8,L
+5/20/2024,Weekday,B-23,8 Av (L01),Internal,Subway Car,Braking,Division of Car Equipment,BRAKES FAIL TO CHARGE,1,L,06:09,6,L
+5/21/2024,Weekday,B-2,Broad St (M23),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,JZ,00:22,0,L
+5/21/2024,Weekday,B-3,Van Siclen Av (J23),External,Persons on Roadbed,,Police,PERSON ON ROADBED,2,JZ,00:40,0,L
+5/21/2024,Weekday,B-133,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,11,L,22:48,22,L
+5/21/2024,Weekday,B-59,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,6,L,12:18,12,L
+5/21/2024,Weekday,B-15,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,8,L,00:18,0,L
+5/21/2024,Weekday,B-9,Lorimer St (L10),Planned ROW Work,,,Division of Service Delivery,GENERAL ORDER OPERATION,6,L,01:33,1,L
+5/22/2024,Weekday,B-2,Church Av (F27),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,G,06:28,6,L
+5/22/2024,Weekday,B-49,Graham Av (L11),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,07:43,7,L
+5/22/2024,Weekday,B-29,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-CBTC,4,L,05:24,5,L
+5/22/2024,Weekday,B-5,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,1,L,00:01,0,L
+5/22/2024,Weekday,B-17,6 Av (L02),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY TRACK/WORK GANGS,7,L,01:31,1,L
+5/22/2024,Weekday,B-15,8 Av (L01),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,01:12,1,L
+5/22/2024,Weekday,B-9,Bedford Av (L08),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,11,L,00:10,0,L
+5/23/2024,Weekday,B-47,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,09:08,9,L
+5/23/2024,Weekday,B-71,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,10:26,10,L
+5/23/2024,Weekday,B-3,Lorimer St (L10),Planned ROW Work,,,Automatic Train Supervision,GENERAL ORDER OPERATION,15,L,00:27,0,L
+5/24/2024,Weekday,B-2,179 St - Jamaica (F01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,F,00:43,0,L
+5/24/2024,Weekday,B-73,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,5,L,19:46,19,L
+5/24/2024,Weekday,B-71,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,BIE-UNDER INVESTIGATION,7,L,10:23,10,L
+5/24/2024,Weekday,B-33,Myrtle - Wyckoff Avs (L17),Internal,Subway Car,Other - CE,Division of Car Equipment,CBTC-CAR EQUIPMENT,5,L,06:28,6,L
+5/24/2024,Weekday,B-13,8 Av (L01),Planned ROW Work,,,Automatic Train Supervision,GENERAL ORDER OPERATION,2,L,01:18,1,L
+5/24/2024,Weekday,B-69,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,11:37,11,L
+5/28/2024,Weekday,B-111,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,09:56,9,L
+5/28/2024,Weekday,B-71,14 St - Union Square (L03),External,Sick/Injured Customer,,Public,SICK CUSTOMER,3,L,09:59,9,L
+5/28/2024,Weekday,B-93,Grand St (L12),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,8,L,10:50,10,L
+5/28/2024,Weekday,B-97,Atlantic Av (L24),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,3,L,12:05,12,L
+5/29/2024,Weekday,B-51,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,L,08:23,8,L
+5/29/2024,Weekday,B-73,8 Av (L01),External,Sick/Injured Customer,,Police,SICK CUSTOMER,2,L,12:56,12,L
+5/29/2024,Weekday,B-117,1 Av (L06),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,3,L,18:20,18,L
+5/29/2024,Weekday,B-123,1 Av (L06),Planned ROW Work,,,Division of Electrical Maintenance,DELAYED BY TRACK/WORK GANGS,6,L,19:19,19,L
+5/29/2024,Weekday,B-79,3 Av (L05),Planned ROW Work,,,Division of Electrical Maintenance,DELAYED BY TRACK/WORK GANGS,7,L,11:46,11,L
+5/29/2024,Weekday,B-83,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,11,L,11:23,11,L
+5/29/2024,Weekday,B-11,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,01:17,1,L
+5/29/2024,Weekday,B-75,Grand St (L12),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,17,L,11:34,11,L
+5/29/2024,Weekday,B-81,New Lots Av (L27),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,7,L,13:06,13,L
+5/30/2024,Weekday,B-161,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,22:02,22,L
+5/30/2024,Weekday,B-67,6 Av (L02),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,2,L,11:50,11,L
+5/30/2024,Weekday,B-73,1 Av (L06),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,7,L,11:53,11,L
+5/30/2024,Weekday,B-39,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,4,L,07:47,7,L
+5/30/2024,Weekday,B-3,Wilson Av (L20),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,1,L,02:17,2,L
+5/30/2024,Weekday,B-167,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,2,L,22:22,22,L
+5/30/2024,Weekday,B-75,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,1,L,11:12,11,L
+5/31/2024,Weekday,B-2,Metropolitan Av - Middle Village (M01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,M,06:34,6,L
+5/31/2024,Weekday,B-59,Grand St (L12),External,"Public Conduct, Crime, Police Response",,Police,BIE-EMPLOYEE,2,L,10:39,10,L
+5/31/2024,Weekday,B-63,Montrose Av (L13),External,Sick/Injured Customer,,Public,SICK CUSTOMER,1,L,10:43,10,L
+5/31/2024,Weekday,B-25,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,03:30,3,L
+6/3/2024,Weekday,B-2,Mott Av - Far Rockaway (H11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,10,A,00:02,0,L
+6/3/2024,Weekday,B-151,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,23:00,23,L
+6/3/2024,Weekday,B-33,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,1,L,08:47,8,L
+6/3/2024,Weekday,B-11,Halsey St (L19),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,DELAYED BY TRANSFER,1,L,02:00,2,L
+6/3/2024,Weekday,B-75,New Lots Av (L27),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-HOME SIGNAL,4,L,13:16,13,L
+6/3/2024,Weekday,B-23,8 Av (L01),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,TRACK CIRCUIT FAILURE,21,L,07:00,7,L
+6/4/2024,Weekday,B-2,Hoyt - Schermerhorn (A42),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,F,00:40,0,L
+6/4/2024,Weekday,B-59,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,12,L,11:16,11,L
+6/4/2024,Weekday,B-63,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,12:00,12,L
+6/5/2024,Weekday,B-81,Grand St (L12),External,"Public Conduct, Crime, Police Response",,Police,#CUSTOMER ASSAULTED/ROBBED,18,L,15:48,15,L
+6/6/2024,Weekday,B-109,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,14:28,14,L
+6/6/2024,Weekday,B-2,World Trade Center (E01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,E,00:26,0,L
+6/6/2024,Weekday,B-29,1 Av (L06),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,17,L,07:15,7,L
+6/7/2024,Weekday,B-33,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,08:11,8,L
+6/7/2024,Weekday,B-105,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,L,17:11,17,L
+6/7/2024,Weekday,B-2,Lefferts Blvd - Ozone Park (A65),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,11,A,00:08,0,L
+6/7/2024,Weekday,B-29,6 Av (L02),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,5,L,06:04,6,L
+6/10/2024,Weekday,B-63,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,1,L,11:35,11,L
+6/11/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,D,00:12,0,L
+6/11/2024,Weekday,B-85,1 Av (L06),External,Sick/Injured Customer,,Public,SICK CUSTOMER,11,L,12:40,12,L
+6/11/2024,Weekday,B-79,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,11:38,11,L
+6/11/2024,Weekday,B-11,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,GENERAL ORDER OPERATION,1,L,01:52,1,L
+6/12/2024,Weekday,B-2,179 St - Jamaica (F01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,F,00:03,0,L
+6/12/2024,Weekday,B-33,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,L,05:32,5,L
+6/12/2024,Weekday,B-5,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,PERSON RIDING ON O/S OF TRAIN,1,L,00:18,0,L
+6/12/2024,Weekday,B-109, (),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,BIE-CBTC,1,L,18:19,18,L
+6/12/2024,Weekday,B-35,E 105 St (L28),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,7,L,05:38,5,L
+6/12/2024,Weekday,B-43,Halsey St (L19),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,BIE-DEBRIS ON ROADBED,2,L,07:11,7,L
+6/12/2024,Weekday,B-29,8 Av (L01),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,3,L,04:45,4,L
+6/13/2024,Weekday,B-129,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,23:05,23,L
+6/13/2024,Weekday,B-15,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,3,L,02:17,2,L
+6/13/2024,Weekday,B-61,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,5,L,09:52,9,L
+6/14/2024,Weekday,B-2,205 St - Norwood (D01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,12,D,06:43,6,L
+6/14/2024,Weekday,B-137,3 Av (L05),External,Sick/Injured Customer,,Police,SICK CUSTOMER,17,L,20:42,20,L
+6/14/2024,Weekday,B-27,Jefferson St (L15),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,FIRE/SMOKE CONDITIONS,15,L,06:14,6,L
+6/14/2024,Weekday,B-7,14 St - Union Square (635),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,00:10,0,L
+6/17/2024,Weekday,B-2,95 St - Bay Ridge (R45),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,14,R,00:26,0,L
+6/17/2024,Weekday,B-111,6 Av (L02),External,Persons on Roadbed,,Police,PERSON ON ROADBED,10,L,19:40,19,L
+6/17/2024,Weekday,B-113,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,ARMED PERSON(S),2,L,18:56,18,L
+6/17/2024,Weekday,B-101,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,11,L,17:45,17,L
+6/17/2024,Weekday,B-99,Bedford Av (L08),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,34,L,15:36,15,L
+6/17/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Other - CE,Division of Car Equipment,B/O P.A./BUZZER,2,L,08:00,8,L
+6/17/2024,Weekday,B-105,8 Av (L01),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-MULTIPLE TIMES,20,L,18:01,18,L
+6/18/2024,Weekday,B-111,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,14:57,14,L
+6/18/2024,Weekday,B-2,World Trade Center (E01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,E,00:38,0,L
+6/18/2024,Weekday,B-127,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,19:20,19,L
+6/18/2024,Weekday,B-77,Sutter Av (L25),Internal,Stations & Structure,,Division of Electrical Maintenance,DELAYED BY TRANSFER,1,L,14:01,14,L
+6/18/2024,Weekday,B-65,6 Av (L02),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,19,L,11:07,11,L
+6/19/2024,Weekday,B-31,Bedford Av (L08),Internal,Stations & Structure,,Division of MOW Engineering,B/O T/O CONSOLE SWITCH,1,L,09:10,9,L
+6/19/2024,Weekday,B-89,E 105 St (L28),Internal,Subway Car,Other - CE,Division of Car Equipment,WATER CONDITION,2,L,18:01,18,L
+6/19/2024,Weekday,B-113,Wilson Av (L20),Operating Environment,Other Operating Environment,,Public,PERSON(S) HOLDING DOORS,1,L,22:05,22,L
+6/20/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,A,00:49,0,L
+6/20/2024,Weekday,B-91,Graham Av (L11),Internal,Other Internal,Service Delivery,OPS Training,BIE-CBTC,7,L,15:36,15,L
+6/20/2024,Weekday,B-125,Sutter Av (L25),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-UNDER INVESTIGATION,10,L,21:06,21,L
+6/20/2024,Weekday,B-129,14 St - Union Square (L03),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,18:40,18,L
+6/20/2024,Weekday,B-11,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,00:56,0,L
+6/20/2024,Weekday,B-55,Marcy Av (M16),Planned ROW Work,,,Division of Service Delivery,DELAYED BY WORK TRAIN,5,JZ,10:08,10,L
+6/20/2024,Weekday,B-57,Montrose Av (L13),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,44,L,10:14,10,L
+6/21/2024,Weekday,B-2,Parsons/Archer - Jamaica Center (G05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,9,E,01:53,1,L
+6/21/2024,Weekday,B-127,6 Av (L02),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,22:31,22,L
+6/21/2024,Weekday,B-27,1 Av (L06),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,1,L,08:40,8,L
+6/21/2024,Weekday,B-51,Atlantic Av (L24),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,4,L,10:57,10,L
+6/24/2024,Weekday,B-59,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,08:32,8,L
+6/24/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,7,D,02:17,2,L
+6/24/2024,Weekday,B-29,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,2,L,07:17,7,L
+6/24/2024,Weekday,B-43,Livonia Av (L26),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-EMPLOYEE,1,L,11:10,11,L
+6/25/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,M,06:03,6,L
+6/25/2024,Weekday,B-89,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,1,L,16:12,16,L
+6/25/2024,Weekday,B-53,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,10:16,10,L
+6/26/2024,Weekday,B-2,Lefferts Blvd - Ozone Park (A65),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,A,00:08,0,L
+6/26/2024,Weekday,B-39,Atlantic Av (L24),External,External Debris on Roadbed,,Police,DEBRIS ON ROADBED,1,L,08:10,8,L
+6/26/2024,Weekday,B-77,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,1,L,12:38,12,L
+6/27/2024,Weekday,B-59,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,11:30,11,L
+6/28/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,5,N,00:25,0,L
+6/28/2024,Weekday,B-103,Atlantic Av (L24),External,"Public Conduct, Crime, Police Response",,Police,*INJURED EMPLOYEE,18,L,16:24,16,L
+6/28/2024,Weekday,B-107,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,ARMED PERSON(S),1,L,14:45,14,L
+6/28/2024,Weekday,B-61,E 105 St (L28),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,1,L,12:41,12,L
+6/28/2024,Weekday,B-101,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,7,L,15:17,15,L
+6/28/2024,Weekday,B-53,DeKalb Av (L16),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,112,L,11:00,11,L
+6/28/2024,Weekday,B-155,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,1,L,22:47,22,L
+7/1/2024,Weekday,B-83,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,SLOW TRAIN,2,L,12:16,12,L
+7/1/2024,Weekday,B-75,6 Av (L02),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE - TRAIN NOT MOVING,4,L,11:03,11,L
+7/1/2024,Weekday,B-9,Bushwick Av - Aberdeen St (L21),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,3,L,01:55,1,L
+7/1/2024,Weekday,B-77,Lorimer St (L10),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,13,L,10:20,10,L
+7/2/2024,Weekday,B-49,6 Av (L02),External,Persons on Roadbed,,Police,BIE-PERSON ON ROADBED,29,L,08:56,8,L
+7/2/2024,Weekday,B-41,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,2,L,08:23,8,L
+7/2/2024,Weekday,B-21,Broadway Junction (L22),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,7,L,00:55,0,L
+7/2/2024,Weekday,B-71,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,18,L,10:49,10,L
+7/2/2024,Weekday,B-23,Graham Av (L11),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,00:35,0,L
+7/2/2024,Weekday,B-63,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,17,L,10:27,10,L
+7/2/2024,Weekday,B-85,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,12:00,12,L
+7/3/2024,Weekday,B-43,New Lots Av (L27),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE - ALERTER,9,L,07:49,7,L
+7/3/2024,Weekday,B-9,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,01:14,1,L
+7/5/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,05:44,5,L
+7/5/2024,Weekday,B-77,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,12:18,12,L
+7/5/2024,Weekday,B-2,Ditmars Blvd - Astoria (R01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,11,N,12:00,12,L
+7/5/2024,Weekday,B-99,3 Av (L05),External,Persons on Roadbed,,Police,BIE-PERSON ON ROADBED,28,L,16:06,16,L
+7/5/2024,Weekday,B-141,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,5,L,20:40,20,L
+7/5/2024,Weekday,B-131,Sutter Av (L25),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,17,L,20:38,20,L
+7/8/2024,Weekday,B-125,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,20:52,20,L
+7/8/2024,Weekday,B-89,Halsey St (L19),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,3,L,17:14,17,L
+7/8/2024,Weekday,B-87,Livonia Av (L26),Internal,Subway Car,Other - CE,Division of Car Equipment,CBTC-CAR EQUIPMENT,4,L,16:16,16,L
+7/8/2024,Weekday,B-13,1 Av (L06),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,5,L,01:36,1,L
+7/9/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,R,06:47,6,L
+7/9/2024,Weekday,B-117,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),6,L,16:22,16,L
+7/9/2024,Weekday,B-165,E 105 St (L28),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,13,L,21:08,21,L
+7/9/2024,Weekday,B-159,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,30,L,20:58,20,L
+7/9/2024,Weekday,B-129,Canarsie Tube (L07),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,BIE-CBTC-UNDER INVESTIGATION,9,L,17:50,17,L
+7/9/2024,Weekday,B-107,1 Av (L06),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,12:28,12,L
+7/9/2024,Weekday,B-87,Bushwick Av - Aberdeen St (L21),Internal,Stations & Structure,,Division of MOW Engineering,DRS FAIL TO O/C SECTION,2,L,11:26,11,L
+7/9/2024,Weekday,B-89,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Engineering,SYSTEM MAINTENANCE EQUIPMENT,6,L,10:40,10,L
+7/9/2024,Weekday,B-29,Bedford Av (L08),Planned ROW Work,,,Division of Service Delivery,GENERAL ORDER OPERATION,8,L,01:47,1,L
+7/10/2024,Weekday,B-43,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,08:23,8,L
+7/10/2024,Weekday,B-2,168 St (112),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,5,C,05:18,5,L
+7/10/2024,Weekday,B-85,Graham Av (L11),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,1,L,15:09,15,L
+7/10/2024,Weekday,B-61,14 St - Union Square (L03),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,BIE-CBTC,1,L,12:14,12,L
+7/10/2024,Weekday,B-27,Jefferson St (L15),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,6,L,02:07,2,L
+7/10/2024,Weekday,B-15,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,01:16,1,L
+7/10/2024,Weekday,B-41,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,82,L,11:15,11,L
+7/11/2024,Weekday,B-19,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,TRUCK-UNUSUAL NOISE,4,L,03:14,3,L
+7/11/2024,Weekday,B-33,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),13,L,07:48,7,L
+7/11/2024,Weekday,B-67,Sutter Av (L25),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,45,L,11:00,11,L
+7/11/2024,Weekday,B-21,Jefferson St (L15),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,02:04,2,L
+7/12/2024,Weekday,B-65,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,10:40,10,L
+7/12/2024,Weekday,B-137,Atlantic Av (L24),External,"Public Conduct, Crime, Police Response",,Police,EMPLOYEE ASSAULTED BY CUST.,6,L,19:33,19,L
+7/12/2024,Weekday,B-99,Rockaway Pkwy - Canarsie (L29),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,2,L,14:52,14,L
+7/12/2024,Weekday,B-77,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,8,L,11:36,11,L
+7/15/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,Q,12:00,12,L
+7/15/2024,Weekday,B-75,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-UNDER INVESTIGATION,15,L,14:04,14,L
+7/15/2024,Weekday,B-81,Broadway Junction (L22),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,BIE-CBTC-UNDER INVESTIGATION,11,L,15:45,15,L
+7/15/2024,Weekday,B-107,6 Av (L02),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,CBTC-CAR EQUIPMENT,14,L,16:54,16,L
+7/15/2024,Weekday,B-113,Jefferson St (L15),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,58,L,18:24,18,L
+7/15/2024,Weekday,B-117,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,19,L,17:06,17,L
+7/16/2024,Weekday,B-63,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,11:54,11,L
+7/16/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,3,D,01:28,1,L
+7/16/2024,Weekday,B-115,Bushwick Av - Aberdeen St (L21),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,T/O OVER RUNNING THE STATION,14,L,18:42,18,L
+7/16/2024,Weekday,B-125,8 Av (L01),Internal,Other Internal,Service Delivery,Division of Service Delivery,*INJURED EMPLOYEE,4,L,18:43,18,L
+7/16/2024,Weekday,B-49,3 Av (L05),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,3,L,08:40,8,L
+7/16/2024,Weekday,B-99,Broadway Junction (L22),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,15:48,15,L
+7/16/2024,Weekday,B-13,14 St - Union Square (L03),Planned ROW Work,,,Division of Service Delivery,GENERAL ORDER OPERATION,2,L,02:16,2,L
+7/17/2024,Weekday,B-2,Metropolitan Av - Middle Village (M01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,M,05:44,5,L
+7/17/2024,Weekday,B-45,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,GRAFFITI,6,L,09:18,9,L
+7/17/2024,Weekday,B-5,14 St - Union Square (L03),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,9,L,01:54,1,L
+7/17/2024,Weekday,B-81,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,13,L,12:26,12,L
+7/17/2024,Weekday,B-49,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,1,L,10:04,10,L
+7/17/2024,Weekday,B-123,Halsey St (L19),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-EMPLOYEE,101,L,16:38,16,L
+7/17/2024,Weekday,B-69,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,16,L,10:21,10,L
+7/17/2024,Weekday,B-55,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,10:28,10,L
+7/18/2024,Weekday,B-29,Canarsie Yard (L30),External,"Public Conduct, Crime, Police Response",,Police,CAR BODY DAMAGE,2,L,05:55,5,L
+7/18/2024,Weekday,B-37,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,SIGNAL TROUBLE,15,L,06:43,6,L
+7/18/2024,Weekday,B-15,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,159,L,04:15,4,L
+7/18/2024,Weekday,B-5,Myrtle - Wyckoff Avs (L17),Internal,Subway Car,Other - CE,Division of Car Equipment,CBTC-CAR EQUIPMENT,5,L,01:42,1,L
+7/18/2024,Weekday,B-11,Bedford Av (L08),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,02:36,2,L
+7/19/2024,Weekday,B-2,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,19,L,12:00,12,L
+7/19/2024,Weekday,B-701,Main St - Flushing (701),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,7,12:00,12,L
+7/19/2024,Weekday,B-25,Halsey St (L19),External,Persons on Roadbed,,Police,PERSON ON ROADBED,13,L,12:04,12,L
+7/19/2024,Weekday,B-19,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,4,L,11:08,11,L
+7/19/2024,Weekday,B-35,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,14,L,12:38,12,L
+7/19/2024,Weekday,B-27,Atlantic Av (L24),Internal,Subway Car,Door-Related,Division of Car Equipment,SELF OPENING DOORS,1,L,12:00,12,L
+7/22/2024,Weekday,B-2,14 St (A31),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,3,F,12:00,12,L
+7/22/2024,Weekday,B-59,8 Av (L01),External,Sick/Injured Customer,,Public,SICK CUSTOMER,15,L,08:56,8,L
+7/22/2024,Weekday,B-61,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,13,L,09:02,9,L
+7/22/2024,Weekday,B-69,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,11,L,09:56,9,L
+7/22/2024,Weekday,B-39,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,4,L,07:25,7,L
+7/22/2024,Weekday,B-105,8 Av (L01),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,BIE-DEBRIS ON ROADBED,1,L,14:13,14,L
+7/22/2024,Weekday,B-95,E 105 St (L28),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,19,L,11:46,11,L
+7/23/2024,Weekday,B-31,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,06:20,6,L
+7/23/2024,Weekday,B-2,Atlantic Av - Barclays Center (R31),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,D,00:23,0,L
+7/23/2024,Weekday,B-95,Montrose Av (L13),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),20,L,13:50,13,L
+7/23/2024,Weekday,B-19,Wilson Av (L20),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,1,L,02:56,2,L
+7/23/2024,Weekday,B-73,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,11:18,11,L
+7/23/2024,Weekday,B-61,Broadway Junction (L22),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,14,L,10:51,10,L
+7/24/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,3,M,06:03,6,L
+7/24/2024,Weekday,B-35,E 105 St (L28),External,Persons on Roadbed,,Police,PERSON ON ROADBED,71,L,06:35,6,L
+7/24/2024,Weekday,B-119,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,EMPLOYEE ASSAULTED BY CUST.,4,L,17:11,17,L
+7/24/2024,Weekday,B-143,6 Av (L02),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,6,L,22:36,22,L
+7/24/2024,Weekday,B-11,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,1,L,00:01,0,L
+7/24/2024,Weekday,B-77,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,34,L,10:59,10,L
+7/24/2024,Weekday,B-125,Jefferson St (L15),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,25,L,19:00,19,L
+7/24/2024,Weekday,B-51,6 Av (L02),Internal,Stations & Structure,,Division of MOW Engineering,STUCK BRAKES,13,L,08:37,8,L
+7/24/2024,Weekday,B-17,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,01:35,1,L
+7/24/2024,Weekday,B-89,New Lots Av (L27),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,10:33,10,L
+7/25/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,10,D,00:38,0,L
+7/25/2024,Weekday,B-35,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,1,L,07:34,7,L
+7/25/2024,Weekday,B-69,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,10:40,10,L
+7/25/2024,Weekday,B-9,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,00:46,0,L
+7/25/2024,Weekday,B-43,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,15,L,08:36,8,L
+7/26/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,12,Q,04:55,4,L
+7/26/2024,Weekday,B-31,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,L,06:20,6,L
+7/26/2024,Weekday,B-85,Halsey St (L19),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/DECEASED,86,L,11:17,11,L
+7/26/2024,Weekday,B-123,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,CAR BODY DAMAGE,2,L,16:26,16,L
+7/26/2024,Weekday,B-75,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,10,L,09:55,9,L
+7/26/2024,Weekday,B-7,Jefferson St (L15),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,00:45,0,L
+7/29/2024,Weekday,B-2,Mott Av - Far Rockaway (H11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,A,00:22,0,L
+7/29/2024,Weekday,B-21,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,05:32,5,L
+7/29/2024,Weekday,B-161,8 Av (L01),External,External Agency or Utility,,Public Works and Utility,LOSS OF POWER-D.C.,1,L,23:57,23,L
+7/29/2024,Weekday,B-155,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,23:15,23,L
+7/30/2024,Weekday,B-2,205 St - Norwood (D01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,05:18,5,L
+7/30/2024,Weekday,B-103,Broadway Junction (L22),External,Sick/Injured Customer,,Police,SICK CUSTOMER,18,L,15:38,15,L
+7/30/2024,Weekday,B-123,3 Av (L05),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,1,L,21:17,21,L
+7/30/2024,Weekday,B-89,Morgan Av (L14),Internal,Subway Car,Door-Related,Division of Car Equipment,GUARD LIGHT TROUBLE,3,L,13:39,13,L
+7/30/2024,Weekday,B-5,DeKalb Av (L16),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,00:20,0,L
+7/31/2024,Weekday,B-33,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,06:20,6,L
+7/31/2024,Weekday,B-67,Livonia Av (L26),External,Sick/Injured Customer,,Public,SICK CUSTOMER,14,L,10:20,10,L
+7/31/2024,Weekday,B-21,Bedford Av (L08),Internal,Other Internal,Service Delivery,OPS Training,BIE - TRAIN NOT MOVING,1,L,03:34,3,L
+7/31/2024,Weekday,B-45,Myrtle - Wyckoff Avs (L17),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,2,L,09:05,9,L
+7/31/2024,Weekday,B-131,Bedford Av (L08),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,22:22,22,L
+7/31/2024,Weekday,B-19,Montrose Av (L13),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,02:48,2,L
+7/31/2024,Weekday,B-7,Broadway Junction (L22),Planned ROW Work,,,MTA Construction & Development,DELAYED BY WORK TRAIN,6,L,01:26,1,L
+8/1/2024,Weekday,B-21,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,05:32,5,L
+8/1/2024,Weekday,B-117,E 105 St (L28),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),6,L,14:50,14,L
+8/1/2024,Weekday,B-81,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),5,L,12:00,12,L
+8/1/2024,Weekday,B-83,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Other Internal Disruptions,Automatic Train Supervision,CBTC-SIGNAL EQUIPMENT,6,L,12:05,12,L
+8/1/2024,Weekday,B-141,Bedford Av (L08),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,14,L,18:56,18,L
+8/1/2024,Weekday,B-31,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,1,L,08:23,8,L
+8/1/2024,Weekday,B-61,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Engineering,SYSTEM MAINTENANCE EQUIPMENT,2,L,10:00,10,L
+8/2/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,Q,00:41,0,L
+8/2/2024,Weekday,B-25,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,L,05:19,5,L
+8/2/2024,Weekday,B-115,Morgan Av (L14),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/ALIVE,53,L,17:23,17,L
+8/2/2024,Weekday,B-59,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Public,SICK CUSTOMER,10,L,09:52,9,L
+8/2/2024,Weekday,B-177,14 St - Union Square (L03),Internal,Subway Car,Other - CE,Division of Car Equipment,T/O OVER RUNNING THE STATION,1,L,23:01,23,L
+8/2/2024,Weekday,B-17,Jefferson St (L15),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,01:24,1,L
+8/2/2024,Weekday,B-45,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,20,L,10:03,10,L
+8/5/2024,Weekday,B-2,Church Av (F27),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,G,05:01,5,L
+8/5/2024,Weekday,B-117,14 St - Union Square (L03),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/DECEASED,77,L,18:54,18,L
+8/5/2024,Weekday,B-121,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,1,L,19:24,19,L
+8/5/2024,Weekday,B-13,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,4,L,01:29,1,L
+8/5/2024,Weekday,B-21,14 St - Union Square (L03),Internal,Stations & Structure,,Division of Electrical Maintenance,POWER REMOVED,1,L,03:40,3,L
+8/5/2024,Weekday,B-61,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,4,L,10:24,10,L
+8/5/2024,Weekday,B-101,Livonia Av (L26),Internal,Subway Car,Propulsion,Division of Car Equipment,NO MOTOR POWER,20,L,17:52,17,L
+8/5/2024,Weekday,B-55,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,1,L,10:34,10,L
+8/6/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,12,F,01:01,1,L
+8/6/2024,Weekday,B-141,Canarsie Yard (L30),Internal,Subway Car,Propulsion,Division of Car Equipment,NO MOTOR POWER,2,L,22:13,22,L
+8/6/2024,Weekday,B-11,Wilson Av (L20),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,01:17,1,L
+8/6/2024,Weekday,B-67,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,22,L,11:12,11,L
+8/7/2024,Weekday,B-61,Graham Av (L11),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,2,L,16:00,16,L
+8/7/2024,Weekday,B-43,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-SIGNAL EQUIPMENT,16,L,06:11,6,L
+8/7/2024,Weekday,B-67,8 Av (L01),Internal,Subway Car,Braking,Division of Car Equipment,BRAKES FAIL TO CHARGE,3,L,08:53,8,L
+8/7/2024,Weekday,B-105,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,11:53,11,L
+8/7/2024,Weekday,B-15,Halsey St (L19),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,01:19,1,L
+8/8/2024,Weekday,B-27,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,04:31,4,L
+8/8/2024,Weekday,B-23,Graham Av (L11),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,1,L,03:43,3,L
+8/8/2024,Weekday,B-19,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,02:20,2,L
+8/9/2024,Weekday,B-2,36 St (R36),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,R,05:41,5,L
+8/9/2024,Weekday,B-167,New Lots Av (L27),Internal,Other Internal,Service Delivery,Division of Service Delivery,*INJURED EMPLOYEE,2,L,20:30,20,L
+8/9/2024,Weekday,B-145,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,3,L,18:15,18,L
+8/9/2024,Weekday,B-67,8 Av (L01),Internal,Subway Car,Door-Related,Division of Car Equipment,SELF CLOSING DOORS,1,L,09:51,9,L
+8/9/2024,Weekday,B-75,Halsey St (L19),Internal,Subway Car,Other - CE,Division of Car Equipment,B/O P.A./BUZZER,6,L,10:52,10,L
+8/9/2024,Weekday,B-23,8 Av (N02),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,02:57,2,L
+8/12/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,14,D,00:28,0,L
+8/12/2024,Weekday,B-141,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,5,L,21:34,21,L
+8/12/2024,Weekday,B-33,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,3,L,06:51,6,L
+8/12/2024,Weekday,B-149,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,1,L,23:06,23,L
+8/12/2024,Weekday,B-35,Lorimer St (L10),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,1,L,07:13,7,L
+8/12/2024,Weekday,B-103,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,12,L,12:00,12,L
+8/12/2024,Weekday,B-17,DeKalb Av (L16),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,2,L,02:40,2,L
+8/13/2024,Weekday,B-2,95 St - Bay Ridge (R45),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,R,03:06,3,L
+8/13/2024,Weekday,B-27,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,03:16,3,L
+8/13/2024,Weekday,B-73,Morgan Av (L14),External,Sick/Injured Customer,,Public,SICK CUSTOMER,17,L,12:03,12,L
+8/14/2024,Weekday,B-95,14 St - Union Square (L03),External,External Debris on Roadbed,,Public,BIE-DEBRIS ON ROADBED,14,L,15:10,15,L
+8/14/2024,Weekday,B-169,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,22:12,22,L
+8/14/2024,Weekday,B-101,Bedford Av (L08),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,75,L,15:47,15,L
+8/14/2024,Weekday,B-23,Canarsie Tube (L07),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,7,L,03:45,3,L
+8/14/2024,Weekday,B-9,Grand St (L12),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY TRACK/WORK GANGS,2,L,01:22,1,L
+8/14/2024,Weekday,B-59,Livonia Av (L26),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,12,L,11:08,11,L
+8/15/2024,Weekday,B-23,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,05:45,5,L
+8/15/2024,Weekday,B-65,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,07:54,7,L
+8/15/2024,Weekday,B-61,Halsey St (L19),External,Persons on Roadbed,,Police,PERSON ON ROADBED,17,L,07:52,7,L
+8/15/2024,Weekday,B-33,Grand St (L12),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,1,L,07:00,7,L
+8/15/2024,Weekday,B-93,Livonia Av (L26),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,15,L,11:42,11,L
+8/16/2024,Weekday,B-35,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,06:08,6,L
+8/16/2024,Weekday,B-99,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,13:43,13,L
+8/16/2024,Weekday,B-2,161 St - Yankee Stadium (D11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,13,D,00:07,0,L
+8/16/2024,Weekday,B-101,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,10,L,11:53,11,L
+8/16/2024,Weekday,B-65,Livonia Av (L26),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,7,L,10:43,10,L
+8/16/2024,Weekday,B-157,Livonia Av (L26),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,3,L,19:57,19,L
+8/16/2024,Weekday,B-83,Sutter Av (L25),Planned ROW Work,,,Division of Service Delivery,DELAYED BY WORK TRAIN,8,L,11:40,11,L
+8/16/2024,Weekday,B-115,Sutter Av (L25),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,8,L,12:13,12,L
+8/19/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,D,01:48,1,L
+8/19/2024,Weekday,B-125,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,OBSTRUCTION/UNUSUAL INCIDENT,1,L,18:43,18,L
+8/19/2024,Weekday,B-39,1 Av (L06),Internal,Stations & Structure,,Division of Electrical Maintenance,LOSS OF POWER-D.C.,82,L,08:05,8,L
+8/19/2024,Weekday,B-51,14 St - Union Square (L03),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,06:53,6,L
+8/20/2024,Weekday,B-2,Ditmars Blvd - Astoria (R01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,N,00:50,0,L
+8/20/2024,Weekday,B-129,Bushwick Av - Aberdeen St (L21),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),2,L,19:28,19,L
+8/20/2024,Weekday,B-125,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Police,DECEASED EMPLOYEE/CUSTOMER,16,L,19:01,19,L
+8/20/2024,Weekday,B-127,Grand St (L12),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,23,L,19:19,19,L
+8/20/2024,Weekday,B-7,Wilson Av (L20),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,00:44,0,L
+8/20/2024,Weekday,B-75,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,12:08,12,L
+8/21/2024,Weekday,B-2,Broad St (M23),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,JZ,12:00,12,L
+8/21/2024,Weekday,B-29,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,04:09,4,L
+8/21/2024,Weekday,B-127,3 Av (L05),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,FIRE/SMOKE CONDITIONS,37,L,17:50,17,L
+8/22/2024,Weekday,B-121,Montrose Av (L13),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/ALIVE,37,L,21:19,21,L
+8/23/2024,Weekday,B-43,E 105 St (L28),External,"Public Conduct, Crime, Police Response",,Public,SHOE BEAM,2,L,07:47,7,L
+8/23/2024,Weekday,B-55,14 St - Union Square (R20),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,4,L,08:05,8,L
+8/23/2024,Weekday,B-29,DeKalb Av (R30),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,Q,02:21,2,L
+8/26/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,D,01:28,1,L
+8/26/2024,Weekday,B-11,Wilson Av (L20),External,"Public Conduct, Crime, Police Response",,Police,BIE-CBTC,2,L,01:36,1,L
+8/26/2024,Weekday,B-31,DeKalb Av (L16),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,1,L,06:16,6,L
+8/26/2024,Weekday,B-163,Bedford Av (L08),External,Sick/Injured Customer,,Public,SICK CUSTOMER,1,L,22:25,22,L
+8/26/2024,Weekday,B-27,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,1,L,20:03,20,L
+8/26/2024,Weekday,B-91,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,5,L,12:02,12,L
+8/27/2024,Weekday,B-69,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,ARMED PERSON(S),20,L,11:21,11,L
+8/27/2024,Weekday,B-21,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-HOME SIGNAL,6,L,02:16,2,L
+8/27/2024,Weekday,B-83,Grand St (L12),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,10,L,11:58,11,L
+8/27/2024,Weekday,B-155,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,1,L,22:46,22,L
+8/27/2024,Weekday,B-105,Atlantic Av (L24),Internal,Subway Car,Braking,Division of Car Equipment,BIE-BRAKE PIPE RUPTURE,37,L,17:01,17,L
+8/27/2024,Weekday,B-23,Halsey St (L19),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,02:00,2,L
+8/28/2024,Weekday,B-2,Forest Hills - 71 Av (G08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,9,R,07:27,7,L
+8/28/2024,Weekday,B-17,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,2,L,05:55,5,L
+8/28/2024,Weekday,B-75,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,38,L,13:33,13,L
+8/28/2024,Weekday,B-37,6 Av (L02),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,23,L,08:35,8,L
+8/28/2024,Weekday,B-69,Bedford Av (L08),Internal,Subway Car,Other - CE,Division of Car Equipment,NO AIR CONDITION/HEAT,1,L,10:44,10,L
+8/29/2024,Weekday,B-145,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,3,L,17:53,17,L
+8/29/2024,Weekday,B-113,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,2,L,12:48,12,L
+8/29/2024,Weekday,B-111,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,11:17,11,L
+8/30/2024,Weekday,B-101,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,20:20,20,L
+8/30/2024,Weekday,B-67,DeKalb Av (L16),External,"Public Conduct, Crime, Police Response",,Police,LOW AIR,4,L,17:46,17,L
+8/30/2024,Weekday,B-43,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,21,L,11:12,11,L
+9/3/2024,Weekday,B-105,Livonia Av (L26),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,1,L,16:35,16,L
+9/3/2024,Weekday,B-99,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,1,L,16:12,16,L
+9/3/2024,Weekday,B-13,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of Electrical Maintenance,SYSTEM MAINTENANCE EQUIPMENT,3,L,00:30,0,L
+9/3/2024,Weekday,B-27,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,02:36,2,L
+9/3/2024,Weekday,B-67,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,10:08,10,L
+9/4/2024,Weekday,B-75,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,8,L,10:16,10,L
+9/4/2024,Weekday,B-59,Rockaway Pkwy - Canarsie (L29),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,TRACK CIRCUIT FAILURE,10,L,09:14,9,L
+9/4/2024,Weekday,B-71,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,12,L,09:41,9,L
+9/4/2024,Weekday,B-7,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,00:24,0,L
+9/4/2024,Weekday,B-13,18 Av (F30),Planned ROW Work,,,MTA Construction & Development,DELAYED BY WORK TRAIN,1,F,00:11,0,L
+9/5/2024,Weekday,B-59,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,31,L,09:00,9,L
+9/5/2024,Weekday,B-89,E 105 St (L28),Internal,Other Internal,Service Delivery,Division of Service Delivery,DELAYED BY TRANSFER,4,L,11:42,11,L
+9/5/2024,Weekday,B-131,14 St - Union Square (L03),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,3,L,12:25,12,L
+9/5/2024,Weekday,B-15,Wilson Av (L20),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,01:57,1,L
+9/5/2024,Weekday,B-95,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,17,L,12:15,12,L
+9/5/2024,Weekday,B-79,Sutter Av (L25),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,19,L,10:43,10,L
+9/6/2024,Weekday,B-147,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,21:40,21,L
+9/6/2024,Weekday,B-37,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,07:41,7,L
+9/6/2024,Weekday,B-2,Mott Av - Far Rockaway (H11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,A,00:22,0,L
+9/6/2024,Weekday,B-159,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,23:13,23,L
+9/6/2024,Weekday,B-7,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,01:27,1,L
+9/6/2024,Weekday,B-11,Morgan Av (L14),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,1,L,04:56,4,L
+9/6/2024,Weekday,B-85,New Lots Av (L27),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,10,L,11:39,11,L
+9/6/2024,Weekday,B-83,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,11:11,11,L
+9/9/2024,Weekday,B-117,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,17:22,17,L
+9/9/2024,Weekday,B-127,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,18:30,18,L
+9/9/2024,Weekday,B-109,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,16:14,16,L
+9/9/2024,Weekday,B-49,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,BIE-EBV-CUSTOMER,1,L,09:08,9,L
+9/9/2024,Weekday,B-123,Halsey St (L19),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,1,L,17:02,17,L
+9/9/2024,Weekday,B-27,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,6,L,06:43,6,L
+9/9/2024,Weekday,B-125,Canarsie Yard (L30),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,2,L,17:06,17,L
+9/9/2024,Weekday,B-47,8 Av (L01),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,13,L,08:53,8,L
+9/9/2024,Weekday,B-3,Atlantic Av (L24),Internal,Subway Car,Propulsion,Division of Car Equipment,NO MOTOR POWER,1,L,00:06,0,L
+9/10/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,12:00,12,L
+9/10/2024,Weekday,B-75,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,10:55,10,L
+9/10/2024,Weekday,B-97,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Public,BROKEN GLASS,1,L,12:52,12,L
+9/10/2024,Weekday,B-7,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,11,L,01:29,1,L
+9/10/2024,Weekday,B-63,Broadway Junction (L22),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,6,L,10:46,10,L
+9/11/2024,Weekday,B-59,6 Av (L02),External,"Public Conduct, Crime, Police Response",,Police,BIE - ALERTER,17,L,07:43,7,L
+9/11/2024,Weekday,B-43,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Public,BIE-EBV CUSTOMER JUSTIFIED,2,L,08:19,8,L
+9/11/2024,Weekday,B-61,3 Av (L05),External,Sick/Injured Customer,,Public,SICK CUSTOMER,9,L,08:48,8,L
+9/11/2024,Weekday,B-45,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,15,L,07:36,7,L
+9/11/2024,Weekday,B-105,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,4,L,11:48,11,L
+9/11/2024,Weekday,B-79,Sutter Av (L25),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,4,L,10:39,10,L
+9/12/2024,Weekday,B-2,Ditmars Blvd - Astoria (R01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,N,00:10,0,L
+9/12/2024,Weekday,B-147,Myrtle - Wyckoff Avs (L17),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,24,L,21:49,21,L
+9/12/2024,Weekday,B-7,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,01:26,1,L
+9/12/2024,Weekday,B-89,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,10:10,10,L
+9/13/2024,Weekday,B-73,E 105 St (L28),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,8,L,14:10,14,L
+9/13/2024,Weekday,B-9,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,13,L,00:45,0,L
+9/16/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,Q,02:21,2,L
+9/16/2024,Weekday,B-5,Sutter Av (L25),External,"Public Conduct, Crime, Police Response",,Police,ARMED PERSON(S),6,L,00:10,0,L
+9/16/2024,Weekday,B-79,Sutter Av (L25),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,5,L,14:52,14,L
+9/17/2024,Weekday,B-2,Church Av (F27),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,G,05:41,5,L
+9/17/2024,Weekday,B-39,Sutter Av (L25),External,"Public Conduct, Crime, Police Response",,Police,BIE-EMPLOYEE,6,L,08:30,8,L
+9/17/2024,Weekday,B-105,14 St - Union Square (L03),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-UNDER INVESTIGATION,5,L,18:27,18,L
+9/17/2024,Weekday,B-95,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,4,L,16:55,16,L
+9/17/2024,Weekday,B-29,E 105 St (L28),Internal,Subway Car,Door-Related,Division of Car Equipment,DRS FAIL TO O/C SECTION,1,L,09:38,9,L
+9/17/2024,Weekday,B-67,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,14,L,11:41,11,L
+9/17/2024,Weekday,B-15,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,1,L,01:34,1,L
+9/18/2024,Weekday,B-139,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),18,L,21:26,21,L
+9/18/2024,Weekday,B-153,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),8,L,23:50,23,L
+9/18/2024,Weekday,B-31,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,19,L,07:32,7,L
+9/18/2024,Weekday,B-151,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of Electrical Maintenance,CBTC - NETWORK,7,L,23:00,23,L
+9/18/2024,Weekday,B-17,8 Av (L01),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,02:36,2,L
+9/19/2024,Weekday,B-25,Jefferson St (L15),External,Persons on Roadbed,,Police,PERSON ON ROADBED,1,L,05:55,5,L
+9/19/2024,Weekday,B-155,8 Av (L01),Internal,Subway Car,Propulsion,Division of Car Equipment,NO MOTOR POWER,11,L,18:01,18,L
+9/19/2024,Weekday,B-69,Broadway Junction (L22),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,10:06,10,L
+9/19/2024,Weekday,B-77,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,3,L,11:22,11,L
+9/19/2024,Weekday,B-19,Jefferson St (L15),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,02:18,2,L
+9/20/2024,Weekday,B-129,Morgan Av (L14),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/DECEASED,64,L,20:34,20,L
+9/20/2024,Weekday,B-41,Atlantic Av (L24),External,"Public Conduct, Crime, Police Response",,Public,UNRULY PERSON(S),2,L,08:05,8,L
+9/20/2024,Weekday,B-65,Lorimer St (L10),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,4,L,12:24,12,L
+9/20/2024,Weekday,B-59,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,AIR BRAKE LIGHT ILLUMINATED,2,L,10:26,10,L
+9/20/2024,Weekday,B-105,8 Av (L01),Internal,Subway Car,Propulsion,Division of Car Equipment,NO MOTOR POWER,8,L,17:57,17,L
+9/23/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,A,12:00,12,L
+9/23/2024,Weekday,B-77,Livonia Av (L26),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,5,L,14:19,14,L
+9/23/2024,Weekday,B-159,Grand St (L12),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,SPARKS ISSUING,16,L,19:09,19,L
+9/23/2024,Weekday,B-195,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,22:52,22,L
+9/24/2024,Weekday,B-143,DeKalb Av (L16),External,Persons on Roadbed,,Police,*BIE-PERSON STRUCK/DECEASED,102,L,16:42,16,L
+9/24/2024,Weekday,B-65,Lorimer St (L10),Internal,Subway Car,Door-Related,Division of Car Equipment,GUARD LIGHT TROUBLE,29,L,08:35,8,L
+9/24/2024,Weekday,B-3,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,00:30,0,L
+9/24/2024,Weekday,B-93,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,10:25,10,L
+9/24/2024,Weekday,B-177,Broadway Junction (L22),Planned ROW Work,,,MTA Construction & Development,DELAYED BY WORK TRAIN,2,L,23:48,23,L
+9/25/2024,Weekday,B-113,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,#CUSTOMER ASSAULTED/ROBBED,6,L,16:10,16,L
+9/25/2024,Weekday,B-161,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,23:53,23,L
+9/25/2024,Weekday,B-153,Rockaway Pkwy - Canarsie (L29),External,Sick/Injured Customer,,Public,SICK CUSTOMER,6,L,22:40,22,L
+9/25/2024,Weekday,B-111,Livonia Av (L26),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-EMPLOYEE,3,L,16:04,16,L
+9/25/2024,Weekday,B-15,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,01:44,1,L
+9/25/2024,Weekday,B-69,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,10:32,10,L
+9/25/2024,Weekday,B-17,Lorimer St (L10),Planned ROW Work,,,MTA Construction & Development,DELAYED BY WORK TRAIN,1,L,00:01,0,L
+9/26/2024,Weekday,B-67,Montrose Av (L13),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,2,L,08:55,8,L
+9/26/2024,Weekday,B-85,Livonia Av (L26),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,5,L,09:55,9,L
+9/26/2024,Weekday,B-11,Myrtle - Wyckoff Avs (L17),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,00:42,0,L
+9/27/2024,Weekday,B-29,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,07:14,7,L
+9/27/2024,Weekday,B-13,DeKalb Av (L16),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,3,L,00:36,0,L
+9/30/2024,Weekday,B-129,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,16:35,16,L
+9/30/2024,Weekday,B-41,Canarsie Yard (L30),External,"Public Conduct, Crime, Police Response",,Police,GRAFFITI,6,L,06:01,6,L
+9/30/2024,Weekday,B-69,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Public,BIE-EMPLOYEE,7,L,09:17,9,L
+9/30/2024,Weekday,B-83,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of MOW Engineering,CBTC - NETWORK,7,L,10:00,10,L
+9/30/2024,Weekday,B-35,E 105 St (L28),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,3,L,06:05,6,L
+9/30/2024,Weekday,B-79,1 Av (L06),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,BIE-DEBRIS ON ROADBED,19,L,10:17,10,L
+9/30/2024,Weekday,B-107,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,12,L,11:50,11,L
+10/1/2024,Weekday,B-2,E 105 St (L28),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,L,05:19,5,L
+10/1/2024,Weekday,B-53,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,6,L,08:19,8,L
+10/1/2024,Weekday,B-55,8 Av (L01),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,6,L,09:03,9,L
+10/1/2024,Weekday,B-87,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SMOKE ISSUING,14,L,12:37,12,L
+10/1/2024,Weekday,B-19,Bedford Pk Blvd (D03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,00:08,0,L
+10/2/2024,Weekday,B-2,Euclid Av (A55),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,C,12:00,12,L
+10/2/2024,Weekday,B-157,Jefferson St (L15),Internal,Other Internal,Service Delivery,OPS Training,BIE - ALERTER,25,L,20:40,20,L
+10/2/2024,Weekday,B-179,Wilson Av (L20),Internal,Stations & Structure,,Division of MOW Engineering,LOW AIR,9,L,22:27,22,L
+10/2/2024,Weekday,B-15,Graham Av (L11),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,01:05,1,L
+10/2/2024,Weekday,B-73,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,10:09,10,L
+10/2/2024,Weekday,B-89,6 Av (L02),Planned ROW Work,,,MTA Construction & Development,DELAYED BY TRACK/WORK GANGS,16,L,10:50,10,L
+10/3/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,3,L,05:19,5,L
+10/3/2024,Weekday,B-2,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,L,07:08,7,L
+10/3/2024,Weekday,B-109,Jefferson St (L15),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,2,L,15:01,15,L
+10/3/2024,Weekday,B-85,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),9,L,11:04,11,L
+10/3/2024,Weekday,B-89,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),4,L,11:29,11,L
+10/3/2024,Weekday,B-87,Rockaway Pkwy - Canarsie (L29),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,7,L,11:22,11,L
+10/3/2024,Weekday,B-167,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,4,L,23:00,23,L
+10/3/2024,Weekday,B-45,Broadway Junction (L22),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,06:22,6,L
+10/3/2024,Weekday,B-17,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,00:43,0,L
+10/4/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,D,00:28,0,L
+10/4/2024,Weekday,B-25,Canarsie Yard (L30),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,4,L,05:56,5,L
+10/4/2024,Weekday,B-17,6 Av (L02),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,02:18,2,L
+10/7/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,F,12:00,12,L
+10/7/2024,Weekday,B-113,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,16:59,16,L
+10/7/2024,Weekday,B-39,8 Av (L01),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,1,L,08:11,8,L
+10/8/2024,Weekday,B-23,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,06:08,6,L
+10/8/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,F,00:41,0,L
+10/8/2024,Weekday,B-43,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,LOST PROPERTY/PERSON,1,L,07:58,7,L
+10/8/2024,Weekday,B-29,8 Av (L01),External,Sick/Injured Customer,,Public,SICK CUSTOMER,3,L,06:50,6,L
+10/8/2024,Weekday,B-19,Halsey St (L19),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,SLOW TRAIN,10,L,02:58,2,L
+10/8/2024,Weekday,B-3,Bay Ridge Av (R42),Internal,Track Failures,"Fire, Smoke, Debris",Division of MOW Track,BIE-DEBRIS ON ROADBED,1,R,00:19,0,L
+10/8/2024,Weekday,B-143,Beach 105 St (H14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,19:31,19,L
+10/8/2024,Weekday,B-21,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,02:49,2,L
+10/8/2024,Weekday,B-83,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,12:50,12,L
+10/9/2024,Weekday,B-65,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,09:36,9,L
+10/9/2024,Weekday,B-181,DeKalb Av (L16),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,1,L,23:45,23,L
+10/9/2024,Weekday,B-13,Montrose Av (L13),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,BROKEN RAIL,12,L,02:10,2,L
+10/9/2024,Weekday,B-147,14 St - Union Square (L03),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,4,L,12:00,12,L
+10/9/2024,Weekday,B-91,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,11,L,12:23,12,L
+10/9/2024,Weekday,B-3,Morgan Av (L14),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,13,L,00:35,0,L
+10/9/2024,Weekday,B-85,E 105 St (L28),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,10:28,10,L
+10/9/2024,Weekday,B-87,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,11:06,11,L
+10/10/2024,Weekday,B-59,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,BIE-EMPLOYEE,1,L,08:13,8,L
+10/10/2024,Weekday,B-141,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,1,L,18:08,18,L
+10/10/2024,Weekday,B-21,Canarsie Yard (L30),Internal,Stations & Structure,,Division of MOW Engineering,BRAKES FAIL TO CHARGE,2,L,06:32,6,L
+10/10/2024,Weekday,B-55,DeKalb Av (L16),Internal,Subway Car,Door-Related,Division of Car Equipment,DOOR OPERATORS CUT-OUT,2,L,07:54,7,L
+10/10/2024,Weekday,B-13,3 Av (L05),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,1,L,02:02,2,L
+10/10/2024,Weekday,B-17,Morgan Av (L14),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,10,L,03:13,3,L
+10/10/2024,Weekday,B-71,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,10:21,10,L
+10/10/2024,Weekday,B-9,Montrose Av (L13),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,00:53,0,L
+10/11/2024,Weekday,B-77,New Lots Av (L27),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,7,L,11:29,11,L
+10/14/2024,Weekday,B-135,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,20:20,20,L
+10/14/2024,Weekday,B-45,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),26,L,08:12,8,L
+10/14/2024,Weekday,B-55,Lorimer St (L10),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,1,L,09:32,9,L
+10/15/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,D,12:00,12,L
+10/15/2024,Weekday,B-81,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,6,L,10:28,10,L
+10/15/2024,Weekday,B-83,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,13,L,10:56,10,L
+10/15/2024,Weekday,B-21,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,01:53,1,L
+10/16/2024,Weekday,B-51,Montrose Av (L13),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,10,L,09:05,9,L
+10/16/2024,Weekday,B-25,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,1,L,07:07,7,L
+10/16/2024,Weekday,B-141,Livonia Av (L26),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,2,L,21:09,21,L
+10/16/2024,Weekday,B-77,Broadway Junction (L22),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,3,L,11:38,11,L
+10/17/2024,Weekday,B-171,Graham Av (L11),External,Sick/Injured Customer,,Police,SICK CUSTOMER,1,L,21:18,21,L
+10/17/2024,Weekday,B-73,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,4,L,08:23,8,L
+10/17/2024,Weekday,B-109,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,10:28,10,L
+10/18/2024,Weekday,B-93,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,15:12,15,L
+10/18/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,A,12:00,12,L
+10/18/2024,Weekday,B-73,Wilson Av (L20),Internal,Other Internal,Service Delivery,OPS Training,BIE-EMPLOYEE,1,L,10:59,10,L
+10/18/2024,Weekday,B-31,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,T/O OVER RUNNING THE STATION,1,L,06:43,6,L
+10/18/2024,Weekday,B-125,Wilson Av (L20),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,3,L,19:38,19,L
+10/18/2024,Weekday,B-77,Livonia Av (L26),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,6,L,12:10,12,L
+10/21/2024,Weekday,B-2,Metropolitan Av - Middle Village (M01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,M,02:24,2,L
+10/21/2024,Weekday,B-63,Sutter Av (L25),External,Sick/Injured Customer,,Public,SICK CUSTOMER,10,L,08:01,8,L
+10/21/2024,Weekday,B-137,E 105 St (L28),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,2,L,17:36,17,L
+10/21/2024,Weekday,B-83,Halsey St (L19),Internal,Stations & Structure,,Division of MOW Engineering,T/O OVER RUNNING THE STATION,1,L,10:49,10,L
+10/22/2024,Weekday,B-153,Jefferson St (L15),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),16,L,19:43,19,L
+10/22/2024,Weekday,B-69,Jefferson St (L15),External,Sick/Injured Customer,,Police,*INJURED CUSTOMER(S),28,L,10:01,10,L
+10/22/2024,Weekday,B-91,E 105 St (L28),Internal,Other Internal,Service Delivery,OPS Training,BIE-EMPLOYEE,4,L,11:48,11,L
+10/22/2024,Weekday,B-89,E 105 St (L28),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,9,L,11:43,11,L
+10/22/2024,Weekday,B-145,Lorimer St (L10),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,CBTC-SIGNAL EQUIPMENT,11,L,17:41,17,L
+10/22/2024,Weekday,B-143,8 Av (L01),Internal,Stations & Structure,,Division of MOW Engineering,STUCK BRAKES,18,L,17:06,17,L
+10/22/2024,Weekday,B-99,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,15,L,11:11,11,L
+10/23/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,D,00:37,0,L
+10/23/2024,Weekday,B-83,New Lots Av (L27),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,9,L,12:25,12,L
+10/23/2024,Weekday,B-21,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,3,L,06:08,6,L
+10/23/2024,Weekday,B-87,New Lots Av (L27),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,1,L,12:12,12,L
+10/24/2024,Weekday,B-63,Morgan Av (L14),External,"Public Conduct, Crime, Police Response",,Police,GUARD LIGHT TROUBLE,15,L,09:28,9,L
+10/24/2024,Weekday,B-93,Grand St (L12),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,5,L,10:47,10,L
+10/24/2024,Weekday,B-59,8 Av (L01),Internal,Subway Car,Propulsion,Division of Car Equipment,NO MOTOR POWER,4,L,07:32,7,L
+10/24/2024,Weekday,B-105,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,11,L,11:56,11,L
+10/24/2024,Weekday,B-13,6 Av (L02),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,01:35,1,L
+10/25/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,D,00:02,0,L
+10/28/2024,Weekday,B-5,1 Av (L06),External,External Debris on Roadbed,,Public,BIE-DEBRIS ON ROADBED,4,L,00:48,0,L
+10/28/2024,Weekday,B-73,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,NO MOTOR POWER,12,L,12:49,12,L
+10/28/2024,Weekday,B-11,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-UNDER INVESTIGATION,3,L,02:05,2,L
+10/28/2024,Weekday,B-107,Jefferson St (L15),Internal,Stations & Structure,,Division of MOW Engineering,LOW AIR,9,L,12:32,12,L
+10/28/2024,Weekday,B-87,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,11:24,11,L
+10/29/2024,Weekday,B-59,Wilson Av (L20),External,Persons on Roadbed,,Miscellaneous,BIE-PERSON ON ROADBED,13,L,10:30,10,L
+10/29/2024,Weekday,B-17,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,02:53,2,L
+10/29/2024,Weekday,B-13,3 Av (L05),Planned ROW Work,,,MTA Construction & Development,GENERAL ORDER OPERATION,4,L,01:45,1,L
+10/30/2024,Weekday,B-139,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,20:48,20,L
+10/30/2024,Weekday,B-91,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Police,LOST PROPERTY/PERSON,5,L,13:56,13,L
+10/30/2024,Weekday,B-121,1 Av (L06),External,Sick/Injured Customer,,Public,SICK CUSTOMER,10,L,17:34,17,L
+10/30/2024,Weekday,B-55,Montrose Av (L13),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,5,L,10:50,10,L
+10/30/2024,Weekday,B-65,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,BIE-CBTC,10,L,11:53,11,L
+10/30/2024,Weekday,B-123,E 105 St (L28),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,4,L,17:57,17,L
+10/30/2024,Weekday,B-137,Broadway Junction (L22),Internal,Stations & Structure,,Division of MOW Engineering,LOSS OF T/O INDICATION,1,L,21:08,21,L
+10/30/2024,Weekday,B-61,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,22,L,11:20,11,L
+10/31/2024,Weekday,B-2,Ditmars Blvd - Astoria (R01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,N,00:30,0,L
+10/31/2024,Weekday,B-49,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,08:31,8,L
+10/31/2024,Weekday,B-85,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,INTERIOR SOILED/DIRTY,9,L,11:55,11,L
+10/31/2024,Weekday,B-17,Atlantic Av (L24),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,01:07,1,L
+10/31/2024,Weekday,B-101,Jefferson St (L15),External,Sick/Injured Customer,,Police,SICK CUSTOMER,10,L,12:45,12,L
+10/31/2024,Weekday,B-65,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,7,L,10:50,10,L
+10/31/2024,Weekday,B-19,Myrtle - Wyckoff Avs (L17),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,5,L,01:58,1,L
+10/31/2024,Weekday,B-141,14 St - Union Square (L03),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,21:01,21,L
+10/31/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,2,L,07:13,7,L
+10/31/2024,Weekday,B-81,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,11:18,11,L
+10/31/2024,Weekday,B-9,3 Av (L05),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,00:01,0,L
+11/1/2024,Weekday,B-151,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,17:34,17,L
+11/1/2024,Weekday,B-189,Sutter Av (L25),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,23:39,23,L
+11/1/2024,Weekday,B-51,Halsey St (L19),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,5,L,07:46,7,L
+11/1/2024,Weekday,B-85,Montrose Av (L13),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,1,L,11:58,11,L
+11/1/2024,Weekday,B-33,8 Av (L01),External,Sick/Injured Customer,,Police,ASSISTANCE REFUSED/UNFOUNDED,3,L,05:27,5,L
+11/1/2024,Weekday,B-35,1 Av (L06),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,3,L,06:32,6,L
+11/1/2024,Weekday,B-89,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,11:04,11,L
+11/4/2024,Weekday,B-2,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,12,L,05:32,5,L
+11/4/2024,Weekday,B-137,Jefferson St (L15),External,Persons on Roadbed,,Police,PERSON STRUCK BY TRAIN/ALIVE,40,L,20:14,20,L
+11/4/2024,Weekday,B-87,Grand St (L12),External,"Public Conduct, Crime, Police Response",,Police,CAB WINDOW STUCK OPEN/CLOSED,1,L,12:36,12,L
+11/4/2024,Weekday,B-153,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,21:38,21,L
+11/4/2024,Weekday,B-125,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,1,L,19:17,19,L
+11/4/2024,Weekday,B-91,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,OPS Training,T/O OVER RUNNING THE STATION,7,L,12:46,12,L
+11/4/2024,Weekday,B-41,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC - ATS,1,L,07:06,7,L
+11/4/2024,Weekday,B-121,3 Av (L05),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,BIE-CBTC,6,L,18:45,18,L
+11/4/2024,Weekday,B-139,New Lots Av (L27),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,BIE-CBTC,1,L,20:50,20,L
+11/4/2024,Weekday,B-151,1 Av (L06),Internal,Signal Failures,Signal Modernization Capital Project,MTA Construction & Development,BIE-CBTC,1,L,22:06,22,L
+11/4/2024,Weekday,B-81,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Braking,Division of Car Equipment,BRAKES FAIL TO CHARGE,1,L,11:10,11,L
+11/5/2024,Weekday,B-41,Bushwick Av - Aberdeen St (L21),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,07:18,7,L
+11/5/2024,Weekday,B-51,Sutter Av (L25),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,17,L,10:28,10,L
+11/5/2024,Weekday,B-25,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,15,L,09:52,9,L
+11/6/2024,Weekday,B-35,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Service Delivery,Division of Service Delivery,T/O OVER RUNNING THE STATION,8,L,07:25,7,L
+11/6/2024,Weekday,B-69,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,10:49,10,L
+11/7/2024,Weekday,B-111,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,14:12,14,L
+11/7/2024,Weekday,B-15,Jefferson St (L15),Internal,Other Internal,Service Delivery,OPS Training,BIE-EMPLOYEE,1,L,02:01,2,L
+11/7/2024,Weekday,B-107,Broadway Junction (L22),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,6,L,13:17,13,L
+11/7/2024,Weekday,B-109,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,10:29,10,L
+11/8/2024,Weekday,B-133,3 Av (L05),External,Persons on Roadbed,,Police,BIE-PERSON ON ROADBED,9,L,19:47,19,L
+11/8/2024,Weekday,B-57,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,POLICE INVESTIGATION,1,L,09:42,9,L
+11/8/2024,Weekday,B-73,Atlantic Av (L24),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,3,L,12:56,12,L
+11/8/2024,Weekday,B-41,Canarsie Yard (L30),Internal,Subway Car,Braking,Division of Car Equipment,BRAKES FAIL TO CHARGE,2,L,07:41,7,L
+11/8/2024,Weekday,B-113,Myrtle Av (M11),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,JZ,17:49,17,L
+11/8/2024,Weekday,B-13,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,01:52,1,L
+11/8/2024,Weekday,B-63,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,5,L,10:35,10,L
+11/11/2024,Weekday,B-143,Graham Av (L11),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,2,L,20:41,20,L
+11/12/2024,Weekday,B-145,Bedford Av (L08),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,21:40,21,L
+11/12/2024,Weekday,B-15,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,00:13,0,L
+11/13/2024,Weekday,B-29,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,05:32,5,L
+11/13/2024,Weekday,B-51,1 Av (L06),External,Persons on Roadbed,,Police,PERSON ON ROADBED,5,L,07:10,7,L
+11/13/2024,Weekday,B-177,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,19,L,22:38,22,L
+11/13/2024,Weekday,B-53,E 105 St (L28),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,19,L,07:10,7,L
+11/13/2024,Weekday,B-11,Grand St (L12),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,3,L,01:29,1,L
+11/13/2024,Weekday,B-3,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,00:13,0,L
+11/13/2024,Weekday,B-77,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,10:10,10,L
+11/14/2024,Weekday,B-41,14 St - Union Square (R20),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,07:19,7,L
+11/14/2024,Weekday,B-59,14 St - Union Square (L03),Internal,Subway Car,Door-Related,Division of Car Equipment,DRS FAIL TO O/C SECTION,4,L,09:02,9,L
+11/14/2024,Weekday,B-139,Broadway Junction (L22),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,4,L,23:01,23,L
+11/14/2024,Weekday,B-57,14 St - Union Square (L03),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,1,L,08:46,8,L
+11/14/2024,Weekday,B-15,Bedford Av (L08),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,02:09,2,L
+11/18/2024,Weekday,B-2,Bedford Av (L08),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,B,05:34,5,L
+11/18/2024,Weekday,B-115,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,22:45,22,L
+11/19/2024,Weekday,B-63,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),5,L,12:34,12,L
+11/19/2024,Weekday,B-45,6 Av (L02),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,5,L,09:33,9,L
+11/19/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,08:33,8,L
+11/19/2024,Weekday,B-39,14 St (A31),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,08:47,8,L
+11/19/2024,Weekday,B-47,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,11:23,11,L
+11/20/2024,Weekday,B-131,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,2,L,17:29,17,L
+11/20/2024,Weekday,B-2,Brighton Beach (D40),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,B,07:24,7,L
+11/20/2024,Weekday,B-121,Morgan Av (L14),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-UNDER INVESTIGATION,19,L,16:05,16,L
+11/20/2024,Weekday,B-7,Graham Av (L11),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,01:05,1,L
+11/21/2024,Weekday,B-189,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,7,L,23:22,23,L
+11/21/2024,Weekday,B-2, (),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,,12:00,12,L
+11/21/2024,Weekday,B-121,Halsey St (L19),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,14:31,14,L
+11/21/2024,Weekday,B-161,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),22,L,19:59,19,L
+11/21/2024,Weekday,B-111,Jefferson St (L15),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE - ALERTER,10,L,12:51,12,L
+11/21/2024,Weekday,B-135,Sutter Av (L25),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,29,L,18:06,18,L
+11/21/2024,Weekday,B-185,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,11,L,18:36,18,L
+11/21/2024,Weekday,B-17,3 Av (L05),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,5,L,02:25,2,L
+11/21/2024,Weekday,B-177,DeKalb Av (L16),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,TRACK CIRCUIT FAILURE,24,L,20:33,20,L
+11/21/2024,Weekday,B-191,Broadway Junction (L22),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,9,L,22:37,22,L
+11/21/2024,Weekday,B-55,Myrtle - Wyckoff Avs (L17),Operating Environment,Other Operating Environment,,Public,CONGESTION-BOARDING/ALIGHTING,1,L,08:32,8,L
+11/21/2024,Weekday,B-113,1 Av (L06),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY TRACK/WORK GANGS,3,L,11:47,11,L
+11/21/2024,Weekday,B-19,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,1,L,02:13,2,L
+11/22/2024,Weekday,B-3,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,00:10,0,L
+11/22/2024,Weekday,B-149,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,L,17:29,17,L
+11/22/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,8,F,12:00,12,L
+11/22/2024,Weekday,B-167,6 Av (L02),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),44,L,19:48,19,L
+11/22/2024,Weekday,B-181,New Lots Av (L27),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,20:47,20,L
+11/22/2024,Weekday,B-37,Jefferson St (L15),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,45,L,05:30,5,L
+11/22/2024,Weekday,B-43,Morgan Av (L14),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,17,L,06:56,6,L
+11/22/2024,Weekday,B-39,Broadway Junction (L22),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,12,L,06:37,6,L
+11/22/2024,Weekday,B-117,New Lots Av (L27),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-SIGNAL EQUIPMENT,8,L,19:24,19,L
+11/22/2024,Weekday,B-25,DeKalb Av (L16),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,19,L,03:31,3,L
+11/22/2024,Weekday,B-93,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,46,L,11:02,11,L
+11/22/2024,Weekday,B-15,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,00:57,0,L
+11/25/2024,Weekday,B-2,Euclid Av (A55),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,C,08:09,8,L
+11/25/2024,Weekday,B-123,New Lots Av (L27),External,"Public Conduct, Crime, Police Response",,Police,PERSON RIDING ON O/S OF TRAIN,1,L,14:32,14,L
+11/25/2024,Weekday,B-207,New Lots Av (L27),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,3,L,23:07,23,L
+11/25/2024,Weekday,B-71,Rockaway Pkwy - Canarsie (L29),Internal,Subway Car,Other - CE,Division of Car Equipment,CBTC-CAR EQUIPMENT,2,L,09:08,9,L
+11/26/2024,Weekday,B-2,168 St (A09),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,C,12:54,12,L
+11/26/2024,Weekday,B-3,Jefferson St (L15),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,01:05,1,L
+11/27/2024,Weekday,B-11,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,10,L,02:39,2,L
+11/27/2024,Weekday,B-59,Myrtle - Wyckoff Avs (L17),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,2,L,08:38,8,L
+11/27/2024,Weekday,B-55,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,4,L,12:00,12,L
+11/29/2024,Weekday,B-15,Canarsie Yard (L30),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,4,L,05:20,5,L
+11/29/2024,Weekday,B-133,Broadway Junction (L22),Internal,Subway Car,Door-Related,Division of Car Equipment,GUARD LIGHT TROUBLE,6,L,22:28,22,L
+11/29/2024,Weekday,B-59,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,10:20,10,L
+12/2/2024,Weekday,B-111,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),2,L,15:55,15,L
+12/2/2024,Weekday,B-143,Halsey St (L19),External,Sick/Injured Customer,,Public,*INJURED CUSTOMER(S),14,L,19:09,19,L
+12/2/2024,Weekday,B-15,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Other Internal Disruptions,MTA-IT,CBTC - NETWORK,2,L,02:49,2,L
+12/2/2024,Weekday,B-47,Bedford Av (L08),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,1,L,08:29,8,L
+12/3/2024,Weekday,B-99,Livonia Av (L26),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,4,L,13:59,13,L
+12/3/2024,Weekday,B-87,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,1,L,12:40,12,L
+12/3/2024,Weekday,B-107,Broadway Junction (L22),External,Sick/Injured Customer,,Police,ASSISTANCE REFUSED/UNFOUNDED,1,L,17:21,17,L
+12/3/2024,Weekday,B-57,14 St - Union Square (L03),Internal,Other Internal,Other Internal Disruptions,MTA-IT,BIE-CBTC,32,L,07:33,7,L
+12/3/2024,Weekday,B-27,DeKalb Av (L16),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,RAIL REPAIR/REPLACEMENT,5,L,03:10,3,L
+12/3/2024,Weekday,B-155,E 105 St (L28),Operating Environment,Other Operating Environment,,Division of Service Delivery,DELAYED BY (PUTIN/LAYUP),3,L,23:35,23,L
+12/3/2024,Weekday,B-151,Bedford Av (L08),Operating Environment,Other Operating Environment,,Police,PERSON(S) HOLDING DOORS,1,L,22:52,22,L
+12/3/2024,Weekday,B-35,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,00:57,0,L
+12/3/2024,Weekday,B-85,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,17,L,11:56,11,L
+12/4/2024,Weekday,B-201,Broadway Junction (L22),External,Inclement Weather,,Weather,CONGESTION-BOARDING/ALIGHTING,2,L,22:56,22,L
+12/4/2024,Weekday,B-61,Broadway Junction (L22),External,Persons on Roadbed,,Police,PERSON ON ROADBED,4,L,10:36,10,L
+12/4/2024,Weekday,B-15,Wilson Av (L20),Internal,Stations & Structure,,Division of MOW Engineering,BIE-CBTC,3,L,02:16,2,L
+12/4/2024,Weekday,B-7,Morgan Av (L14),Planned ROW Work,,,Division of MOW Infrastructure,DELAYED BY TRACK/WORK GANGS,5,L,00:10,0,L
+12/4/2024,Weekday,B-79,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,12,L,12:00,12,L
+12/4/2024,Weekday,B-17,8 Av (N02),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,01:19,1,L
+12/4/2024,Weekday,B-67,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,10:48,10,L
+12/4/2024,Weekday,B-175,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,4,L,22:14,22,L
+12/5/2024,Weekday,B-125,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Public,GUARD LIGHT TROUBLE,17,L,17:23,17,L
+12/5/2024,Weekday,B-133,E 105 St (L28),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,CBTC - ATS,15,L,17:39,17,L
+12/5/2024,Weekday,B-33,Grand St (L12),Internal,Subway Car,Braking,Division of Car Equipment,POOR BRAKING TRAIN,5,L,06:16,6,L
+12/5/2024,Weekday,B-101,8 Av (L01),Internal,Subway Car,Other - CE,Division of Car Equipment,CAR BODY DAMAGE,1,L,13:52,13,L
+12/5/2024,Weekday,B-5,Graham Av (L11),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,12,L,00:54,0,L
+12/5/2024,Weekday,B-97,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,11:19,11,L
+12/6/2024,Weekday,B-103,Myrtle - Wyckoff Avs (L17),Internal,Other Internal,Other Internal Disruptions,MTA Construction & Development,DRS FAIL TO O/C SECTION,10,L,18:08,18,L
+12/6/2024,Weekday,B-45,E 105 St (L28),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,9,L,11:15,11,L
+12/6/2024,Weekday,B-51,Livonia Av (L26),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,2,L,11:29,11,L
+12/6/2024,Weekday,B-67,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,12:30,12,L
+12/9/2024,Weekday,B-71,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,4,L,10:28,10,L
+12/9/2024,Weekday,B-2,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,10,L,10:44,10,L
+12/9/2024,Weekday,B-89,Broadway Junction (L22),Internal,Subway Car,Braking,Division of Car Equipment,STUCK BRAKES,10,L,13:40,13,L
+12/10/2024,Weekday,B-45,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,L,07:41,7,L
+12/10/2024,Weekday,B-47,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),2,L,08:09,8,L
+12/10/2024,Weekday,B-31,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,2,L,06:36,6,L
+12/10/2024,Weekday,B-65,1 Av (L06),External,Sick/Injured Customer,,Public,ASSISTANCE REFUSED/UNFOUNDED,2,L,09:00,9,L
+12/10/2024,Weekday,B-81,Sutter Av (L25),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,1,L,11:35,11,L
+12/10/2024,Weekday,B-35,8 Av (L01),Internal,Subway Car,Propulsion,Division of Car Equipment,SLOW TRAIN,1,L,06:50,6,L
+12/10/2024,Weekday,B-13,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,9,L,01:06,1,L
+12/11/2024,Weekday,B-75,Graham Av (L11),External,"Public Conduct, Crime, Police Response",,Police,DRS FAIL TO O/C SECTION,7,L,11:19,11,L
+12/11/2024,Weekday,B-87,E 105 St (L28),Internal,Subway Car,Other - CE,Division of Car Equipment,BROKEN SAFTY CHAIN/PANTO GATE,4,L,12:45,12,L
+12/11/2024,Weekday,B-121,E 105 St (L28),Internal,Subway Car,Propulsion,Division of Car Equipment,SLOW TRAIN,26,L,18:46,18,L
+12/11/2024,Weekday,B-7,Bedford Av (L08),Planned ROW Work,,,Division of MOW Track,GENERAL ORDER OPERATION,6,L,01:35,1,L
+12/12/2024,Weekday,B-97,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,1,L,14:47,14,L
+12/12/2024,Weekday,B-2,95 St - Bay Ridge (R45),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,R,16:03,16,L
+12/12/2024,Weekday,B-153,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,PERSON RIDING ON O/S OF TRAIN,3,L,16:31,16,L
+12/12/2024,Weekday,B-55,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,50,L,08:07,8,L
+12/12/2024,Weekday,B-163,8 Av (L01),Internal,Subway Car,Braking,Division of Car Equipment,BRAKES FAIL TO CHARGE,1,L,23:04,23,L
+12/12/2024,Weekday,B-57,Wilson Av (L20),Internal,Subway Car,Other - CE,Division of Car Equipment,CBTC-CAR EQUIPMENT,12,L,08:20,8,L
+12/13/2024,Weekday,B-121,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,5,L,16:55,16,L
+12/13/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,5,F,00:41,0,L
+12/13/2024,Weekday,B-29,Rockaway Pkwy - Canarsie (L29),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,L,04:03,4,L
+12/13/2024,Weekday,B-131,Livonia Av (L26),External,"Public Conduct, Crime, Police Response",,Police,PERSON RIDING ON O/S OF TRAIN,9,L,16:39,16,L
+12/13/2024,Weekday,B-163,1 Av (L06),External,"Public Conduct, Crime, Police Response",,Public,DRS OPEN STUCK/JAMMED,26,L,21:41,21,L
+12/13/2024,Weekday,B-49,Myrtle - Wyckoff Avs (L17),Internal,Subway Car,Door-Related,Division of Car Equipment,DRS FAIL TO O/C CAR,4,L,07:33,7,L
+12/13/2024,Weekday,B-91,8 Av (L01),Internal,Subway Car,Door-Related,Division of Car Equipment,GUARD LIGHT TROUBLE,4,L,11:38,11,L
+12/13/2024,Weekday,B-101,Sutter Av (L25),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,18,L,12:01,12,L
+12/13/2024,Weekday,B-17,Grand St (L12),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,02:09,2,L
+12/16/2024,Weekday,B-2,Mott Av - Far Rockaway (H11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,7,A,12:00,12,L
+12/16/2024,Weekday,B-73,Broadway Junction (L22),External,Inclement Weather,,Public,INCLEMENT WEATHER CONDITION,2,L,08:03,8,L
+12/16/2024,Weekday,B-5,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SWITCH TROUBLE,1,L,00:01,0,L
+12/16/2024,Weekday,B-77,Rockaway Pkwy - Canarsie (L29),Operating Environment,Other Operating Environment,,Public,PERSON(S) HOLDING DOORS,3,L,07:06,7,L
+12/17/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,6,A,05:09,5,L
+12/17/2024,Weekday,B-49,1 Av (L06),External,Sick/Injured Customer,,Public,SICK CUSTOMER,11,L,07:49,7,L
+12/17/2024,Weekday,B-147,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Service Delivery,OPS Training,BRAKES FAIL TO CHARGE,17,L,17:57,17,L
+12/17/2024,Weekday,B-145,3 Av (L05),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,7,L,17:50,17,L
+12/17/2024,Weekday,B-169,Myrtle - Wyckoff Avs (L17),Internal,Subway Car,Door-Related,Division of Car Equipment,LOSS OF T/O INDICATION,15,L,20:07,20,L
+12/17/2024,Weekday,B-43,New Lots Av (L27),Internal,Subway Car,Other - CE,Division of Car Equipment,B/O P.A./BUZZER,7,L,07:06,7,L
+12/17/2024,Weekday,B-25,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,2,L,01:58,1,L
+12/18/2024,Weekday,B-163,DeKalb Av (L16),External,External Debris on Roadbed,,Police,BIE-DEBRIS ON ROADBED,66,L,20:38,20,L
+12/18/2024,Weekday,B-115,Broadway Junction (L22),External,"Public Conduct, Crime, Police Response",,Police,PERSON RIDING ON O/S OF TRAIN,19,L,14:45,14,L
+12/18/2024,Weekday,B-129,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),3,L,15:39,15,L
+12/18/2024,Weekday,B-83,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,35,L,10:57,10,L
+12/18/2024,Weekday,B-159,Atlantic Av (L24),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,1,L,18:05,18,L
+12/18/2024,Weekday,B-43,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,1,L,08:30,8,L
+12/18/2024,Weekday,B-39,8 Av (L01),Internal,Subway Car,Other - CE,Division of Car Equipment,B/O T/O CONSOLE SWITCH,1,L,08:00,8,L
+12/18/2024,Weekday,B-85, (),Internal,Subway Car,Other - CE,Division of Car Equipment,BIE-CBTC,6,L,10:50,10,L
+12/18/2024,Weekday,B-127,14 St - Union Square (635),Operating Environment,Other Operating Environment,,Public,PERSON(S) HOLDING DOORS,2,L,16:18,16,L
+12/18/2024,Weekday,B-75,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,14,L,10:10,10,L
+12/18/2024,Weekday,B-21,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,10,L,00:15,0,L
+12/18/2024,Weekday,B-77,Livonia Av (L26),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,16,L,12:09,12,L
+12/18/2024,Weekday,B-5,Bedford Av (L08),Planned ROW Work,,,Division of MOW Track,GENERAL ORDER OPERATION,12,L,00:33,0,L
+12/19/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,2,F,05:52,5,L
+12/19/2024,Weekday,B-65,3 Av (L05),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),6,L,11:05,11,L
+12/19/2024,Weekday,B-71,Atlantic Av (L24),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,3,L,12:20,12,L
+12/19/2024,Weekday,B-29,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Track,GENERAL ORDER OPERATION,5,L,02:26,2,L
+12/20/2024,Weekday,B-2,96 St (Q05),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,12,Q,01:25,1,L
+12/20/2024,Weekday,B-11,DeKalb Av (L16),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,9,L,02:08,2,L
+12/20/2024,Weekday,B-61,Broadway Junction (L22),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,8,L,09:56,9,L
+12/20/2024,Weekday,B-181,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,4,L,22:30,22,L
+12/23/2024,Weekday,B-2,Bedford Pk Blvd (D03),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,7,D,00:28,0,L
+12/23/2024,Weekday,B-93,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Police,BROKEN GLASS,3,L,14:16,14,L
+12/23/2024,Weekday,B-95,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,2,L,14:31,14,L
+12/23/2024,Weekday,B-29,Broadway Junction (L22),Internal,Other Internal,Train Brake Activation - Cause Unknown,Miscellaneous,BIE-CBTC,61,L,06:05,6,L
+12/23/2024,Weekday,B-125,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,5,L,18:38,18,L
+12/23/2024,Weekday,B-17,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,SIGNAL TROUBLE,12,L,01:30,1,L
+12/23/2024,Weekday,B-19,Rockaway Pkwy - Canarsie (L29),Internal,Signal Failures,Other - Sig,Division of MOW Signals,TRACK CIRCUIT FAILURE,1,L,00:10,0,L
+12/23/2024,Weekday,B-161,3 Av (L05),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,15,L,22:26,22,L
+12/23/2024,Weekday,B-5,Bushwick Av - Aberdeen St (L21),Internal,Subway Car,Door-Related,Division of Car Equipment,GUARD LIGHT TROUBLE,1,L,00:10,0,L
+12/23/2024,Weekday,B-7,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,4,L,00:46,0,L
+12/24/2024,Weekday,B-95,Bedford Av (L08),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),29,L,16:24,16,L
+12/24/2024,Weekday,B-93,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,8,L,15:50,15,L
+12/24/2024,Weekday,B-119,Sutter Av (L25),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,19,L,17:45,17,L
+12/24/2024,Weekday,B-117,Atlantic Av (L24),Internal,Subway Car,Other - CE,Division of Car Equipment,B/O P.A./BUZZER,10,L,16:10,16,L
+12/24/2024,Weekday,B-133,Rockaway Pkwy - Canarsie (L29),Internal,Track Failures,Rail and Roadbed,Division of MOW Track,SWITCH TROUBLE,17,L,22:10,22,L
+12/24/2024,Weekday,B-21,Rockaway Pkwy - Canarsie (L29),Planned ROW Work,,,Division of MOW Infrastructure,GENERAL ORDER OPERATION,17,L,01:26,1,L
+12/24/2024,Weekday,B-63,Livonia Av (L26),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,5,L,11:46,11,L
+12/24/2024,Weekday,B-7,8 Av (L01),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,6,L,00:13,0,L
+12/26/2024,Weekday,B-63,8 Av (L01),Crew Availability,,,Division of Service Delivery,NO C/R AVAILABLE,6,L,06:56,6,L
+12/26/2024,Weekday,B-2,179 St - Jamaica (F01),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,F,03:03,3,L
+12/26/2024,Weekday,B-123,8 Av (L01),External,"Public Conduct, Crime, Police Response",,Police,ARMED PERSON(S),2,L,18:08,18,L
+12/26/2024,Weekday,B-75,Myrtle - Wyckoff Avs (L17),External,"Public Conduct, Crime, Police Response",,Public,FIRE/SMOKE CONDITIONS,9,L,10:23,10,L
+12/26/2024,Weekday,B-3,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Public,INTERIOR SOILED/DIRTY,1,L,00:10,0,L
+12/26/2024,Weekday,B-35,Bedford Av (L08),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE - ALERTER,43,L,07:47,7,L
+12/26/2024,Weekday,B-55,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Service Delivery,Division of Service Delivery,BIE-CBTC,6,L,09:17,9,L
+12/26/2024,Weekday,B-43,8 Av (L01),Internal,Subway Car,Other - CE,Division of Car Equipment,B/O MOTOR GENERATOR/CONVERTER,1,L,07:20,7,L
+12/26/2024,Weekday,B-87,Bushwick Av - Aberdeen St (L21),Planned ROW Work,,,Division of MOW Signals,DELAYED BY TRACK/WORK GANGS,17,L,11:33,11,L
+12/27/2024,Weekday,B-2,207 St - Inwood (A02),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,1,A,12:00,12,L
+12/27/2024,Weekday,B-115,Wilson Av (L20),External,Sick/Injured Customer,,Police,DECEASED EMPLOYEE/CUSTOMER,37,L,20:27,20,L
+12/27/2024,Weekday,B-41,Rockaway Pkwy - Canarsie (L29),Internal,Other Internal,Service Delivery,Division of Service Delivery,LATE,1,L,06:13,6,L
+12/27/2024,Weekday,B-131,Bushwick Av - Aberdeen St (L21),Internal,Signal Failures,Other - Sig,Division of MOW Signals,CBTC-SIGNAL EQUIPMENT,13,L,22:00,22,L
+12/27/2024,Weekday,B-9,Lorimer St (L10),Planned ROW Work,,,Division of MOW Track,DELAYED BY WORK TRAIN,2,,00:01,0,L
+12/30/2024,Weekday,B-2,Mott Av - Far Rockaway (H11),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,A,05:14,5,L
+12/30/2024,Weekday,B-167,Rockaway Pkwy - Canarsie (L29),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),7,L,22:50,22,L
+12/30/2024,Weekday,B-87,14 St - Union Square (L03),External,"Public Conduct, Crime, Police Response",,Police,UNRULY PERSON(S),1,L,12:40,12,L
+12/30/2024,Weekday,B-35,1 Av (L06),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,3,L,14:57,14,L
+12/31/2024,Weekday,B-2,Stillwell Av - Coney Island (D43),Crew Availability,,,Division of Service Delivery,NO T/O AVAILABLE,4,D,06:00,6,L
+12/31/2024,Weekday,B-103,Sutter Av (L25),Internal,Stations & Structure,,Division of MOW Engineering,CBTC-CAR EQUIPMENT,4,L,20:07,20,L
+12/31/2024,Weekday,B-53,Livonia Av (L26),Internal,Stations & Structure,,Division of MOW Engineering,NO MOTOR POWER,5,L,09:42,9,L
+12/31/2024,Weekday,B-23,14 St - Union Square (L03),Planned ROW Work,,,Division of MOW Track,DELAYED BY TRACK/WORK GANGS,7,L,01:36,1,L
